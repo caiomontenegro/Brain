@@ -37,7 +37,7 @@
 
 For create a new VUE project, we can use the VUE CLI to build a vue project architecture.
 
-Access the link below and follow the steps::
+Access the link below and follow the steps:
 
 <a href="https://cli.vuejs.org/" target="_blank">Official CLI Tutorial</a>
 
