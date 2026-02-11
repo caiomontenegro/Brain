@@ -26,33 +26,70 @@ Within this new folder, create a new TS file named:
 
 The structure will be:
 
+![[Brain/Job/Guias/Template Builder/assets/diretorio.png]]
 
+Copy all content of another index.post.ts, but change only redirect routes block code:
 
+```
+import useS3 from '@/composables/useS3.js';
+import useUtils from '@/composables/useUtils.js';
 
-Copie toda o conteúdo de qualquer outro index.post.ts e altere apenas as rotas de redirecionamento:
+export default defineEventHandler(async (event: any) => {
+  const config = useRuntimeConfig();
+  const body = await readBody(event);
+  const s3Config = {
+    NUXT_URL: config.NUXT_URL,
+    S3_BUCKET: config.S3_BUCKET,
+    S3_REGION: config.S3_REGION,
+    S3_PATH: config.S3_PATH,
+    S3_ENDPOINT: config.S3_ENDPOINT,
 
-let emailContent = (await $fetch(`${config.NUXT_URL}/<rota do seu email>`, {
+  };
+
+  const { uploadToS3, deleteFromS3 } = useS3();
+  const { sanitizeHtml } = useUtils();
+
+  try {
+    const filename = `${crypto.randomUUID()}.json`;
+    await uploadToS3(body, filename, s3Config);
+
+    // @ts-ignore
+
+    let emailContent = (await $fetch(`${config.NUXT_URL}/<sua rota>`, {
+      query: { filename, mock: body.mock },
+    })) as string;
+
+    emailContent = sanitizeHtml(emailContent);
+    const resS3 = await deleteFromS3(filename, s3Config);
+
+    if (resS3?.error) {
+      event.node.req.logger.error(resS3.message, {
+        error: resS3.error || 'Mensagem não encontrada'
+      });
+    }
+    return { emailContent };
+    
+  } catch (error: any) {
+    throw new Error(error);
+  }
+});
+```
+
+exemple:
+
+```
+let emailContent = (await $fetch(`${config.NUXT_URL}/multiple-card/email/auto-debit`, {
       query: { filename, mock: body.mock },
     })) as string;
 
 const body = {
-      message: 'Erro na requisição: <rota do seu email>',
+      message: 'Erro na requisição: multiple-card/email/auto-debit',
       error: error.message,
     };
-
-exemplo:
-
-let emailContent = (await $fetch(`${config.NUXT_URL}/insurance/email/trusted-contact`, {
-      query: { filename, mock: body.mock },
-    })) as string;
-
-const body = {
-      message: 'Erro na requisição: insurance/email/trusted-contact',
-      error: error.message,
-    };
+```
 
 
-2- Para criar o template
+## Create Template
 
 
 Acesse o diretório Pages, e crie novamente a estrutura de pastas que criamos anteriormente. Exemplo:
@@ -63,8 +100,7 @@ Pages > <pasta do novo serviço> > email > <nome do template> > index.vue
 
 A estrutura completa ficará:
 
-Pages > insurance > email > trusted-contact > index.vue
-                  > pdf
+
 
 
 O arquivo index.vue será o template do e-mail. Para iniciar com uma configuração padrão. Utilize esse conteúdo:
