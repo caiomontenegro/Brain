@@ -26,7 +26,8 @@ Within this new folder, create a new TS file named:
 
 The structure will be:
 
-![[Pasted image 20260211094333.png]]
+
+
 
 Copie toda o conteúdo de qualquer outro index.post.ts e altere apenas as rotas de redirecionamento:
 
