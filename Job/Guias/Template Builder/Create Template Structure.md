@@ -89,18 +89,14 @@ const body = {
 ```
 
 
+
 ## Create Template
 
 
-Acesse o diretório Pages, e crie novamente a estrutura de pastas que criamos anteriormente. Exemplo:
-
-Pages > <pasta do novo serviço> > email > <nome do template> > index.vue
-                  > pdf
+Access the Pages directory, and recreate the folder structure that we create previously. Example:
 
 
-A estrutura completa ficará:
-
-
+![[diretorio2.png]]
 
 
 O arquivo index.vue será o template do e-mail. Para iniciar com uma configuração padrão. Utilize esse conteúdo:
@@ -117,6 +113,7 @@ O arquivo index.vue será o template do e-mail. Para iniciar com uma configuraç
   </mail-container>
 </template>
 
+```
 <script setup>
 import MailRow from '@/components/email/MailRow.vue';
 import MailIcon from '@/components/email/MailIcon.vue';
@@ -153,45 +150,26 @@ if (route.query.mock) {
 
 const { logoUrl, btnColor, color, headerColor } = useTemplateCustom(emailData);
 </script>
+```
 
 
-3 - Adicionando imagens:
+## Adding images
 
-Para adicionarmos imagens dinâmicas exigidas pelo design, precisamos solicitar ajuda da infra cloud para criar um diretório (se necessário, notificar a criação de um diretório na descrição do ticket) dentro de nosso servidor aws. 
+To add new dinamic images on template, we need to request to infra-cloud.
 
-Na central de ajuda, abra o ticket através dos menus:
-
-Infraestrutura de TI > Equipe de Operações > Obter ajuda de infra-Cloud com Criação de Recursos na nuvem.
-
-Preencha os campos:
-
-Projeto de Origem = Deixe em branco
-Resumo = Adição de imagens na Amazon S3
-Descrição = O bucket onde elas devem ser inseridas é o gerencianet-pub-prod-1 e podem adicioná-las na seguinte pasta:
- https://gerencianet-pub-prod-1.s3.amazonaws.com/imagens/efi/emails/<nome do diretório> ex: insurances
-
-E envie em anexo as imagens que devem ser adicionadas no servidor.
-
-
-4 - Recebendo dados dinâmicos com o swagger.
-
-Vamos criar a documentação das rotas que iram nos retornar os dados para o template.
-Acesse o diretório "docs", e novamente crie a estrutura de pastas de nome "email" e "pdf". Porém com algumas mudanças dentro dessas pastas:
-
-server > api > <diretório> > email > geolocation-code > geolocation-code.yaml e schema.json
-                           > pdf   > terms                    
-
-- Arquivos yaml = documentação com descrições. 
-- Arquivos json = exemplo do contrato a ser recebido.
+Check the note to [[Adding Dinamic Images]] and follow the guide.
 
 
 Após documentar o contrato que deseja receber, mande esse contrato para o seu backend. Para que ele possa preparar a rota e retornar os dados através da mesma.
 
 
-5 - Desenvolvimento do Template:
-Para ir testando o visual do seu template, rode o comando abaixo para subir o TBS:
+## Template
 
+For test the visual tempalte, run the commando:
+
+```
 make up dev-preview
+```
 
 No browser, acesse a rota:
 

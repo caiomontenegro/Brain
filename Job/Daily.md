@@ -2,18 +2,17 @@
 
 # A Fazer:
 
-
-Conta para teste de saldos:
-06792819670
-gerencianet
+Aguardando Bugbash do Contato do Gerente.
 
 
 # Daily:
 
 Tarefa Contato Comercial
-- Amanda revisou a minha tarefa de testes unitários, estou realizando os ajustes pra adequar os testes a última atualização que ela subiu pra nós.
-- Ajudei o Welker a pegar uma evidência da tarefa de saldo bloqueado em prod.
-- Revisando um bug do Tulio na filtragem de Saldo Bonificado.
+- Subi os últimos ajustes ontem na tarefa de testes unitários.
+- Fiz os ajustes da atualização na regra de exibição para todas as contas
+- Amanda validou, eu mandei a versão final para bugbash.
+- Revisei a tarefa do Tulio do TBS.
+- Revisando uma tarefa do Welker.
 
 
 ## GP's:
