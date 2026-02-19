@@ -16,6 +16,7 @@ Tarefa Contato Comercial
 
 
 ## GP's:
+Utilize os [[Scripts para PM]] 
 
 Pix - Thiago Resende
 Extrato / Portabilidade / Bloqueios - Jordan Morais
