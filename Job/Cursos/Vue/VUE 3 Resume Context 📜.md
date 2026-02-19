@@ -1,37 +1,33 @@
 
-- 1 [VUE CLI](#vue-cli)
-- 2 [Architecture](#architecture)
-- 3 [Components Concepts](#components-concepts)
-    - 3.1 [Creating a Component](#creating-a-component)
-    - 3.2 [Importing and declaring Component Globally](#importing-and-declaring-component-globally)
-    - 3.3 [Importing and declaring Component Locally](#importing-and-declaring-component-locally)
-    - 3.4 [Using Component](#using-component)
-    - 3.5 [Capturing Template Element](#capturing-template-element)
-- 4 [Component API's](#Component-API's)
-    - 4.1 [Options API](#options-api)
-    - 4.2 [Composition API](#composition-api)
-- 5 [Interpolation](#interpolation)
-    - 5.1 [Text Interpolation](#text-interpolation)
-    - 5.2 [Javascript Interpolation](#javascript-interpolation)
-- 6 [Directives](#directives)
-    - 6.1 [Bind Directive](#bind-directive)
-    - 6.2 [Two Way Bind Directive](#two-way-bind-directive)
-    - 6.3 [Conditional Directives](#conditional-directives)
-    - 6.4 [Loop Directive](#loop-directive)
-    - 6.5 [Event Binding (Event listener)](#event-binding-(event-listener))
-    - 6.6 [Once Render Content](#once-render-content)
-    - 6.7 [Render Static Content](#render-static-content)
-    - 6.8 [Dinamic Content For Child Component](#dinamic-content-for-child-component)
-    - 6.9 [HTML Dinamic Content](#HTML-dinamic-content)
-- 7 [Class and Styles Bindings](#class-and-styles-bindings)
-    - 7.1 [Binding Class](#binding-class)
-    - 7.2 [Binding Styles](#binding-styles)
-- 8 [Component Lifecycle](#component-lifecycle)
+- ##### 1 VUE CLI
+- ##### 2 Architecture
+- ##### 3 Components Concepts
+    - 3.1 Creating a Component
+    - 3.2 Importing and declaring Component Globally
+    - 3.3 Importing and declaring Component Locally
+    - 3.4 Using Component
+    - 3.5 Capturing Template Element
+- ##### 4 Component API's
+    - 4.1 Options API
+    - 4.2 Composition API
+- ##### 5 Interpolation
+    - 5.1 Text Interpolation
+    - 5.2 Javascript Interpolation
+- ##### 6 Directives
+    - 6.1 Bind Directive
+    - 6.2 Two Way Bind Directive
+    - 6.3 Conditional Directives
+    - 6.4 Loop Directive
+    - 6.5 Event Binding (Event listener)
+    - 6.6 Once Render Content
+    - 6.7 Render Static Content
+    - 6.8 Dinamic Content For Child Component
+    - 6.9 HTML Dinamic Content
+- ##### 7 Class and Styles Bindings
+    - 7.1 Binding Class
+    - 7.2 Binding Styles
+- ##### 8 Component Lifecycle
 
-
-</br>
-</br>
-</br>
 
 ## VUE CLI
 
@@ -41,10 +37,6 @@ Access the link below and follow the steps:
 
 <a href="https://cli.vuejs.org/" target="_blank">Official CLI Tutorial</a>
 
-
-</br>
-</br>
-</br>
 
 ## Architecture
 
@@ -57,106 +49,106 @@ The architecture project:
     - `assets`: That we have our image and styles files.
     - `components`: Our vue components files.
     - `app.vue`: the main component vue file.
-    - `main.js`: inside this file, we have a instance vue app.
+    - `main.js`: inside this file, we have a instance vue app, and library imports like Design Systems
     - `vue.config.js`: Special vue configs.
-    - `package.json`: all scripts and dependencies rountines.
+    - `package.json`: all scripts and dependencies routines.
     - `package-lock.json`: Dependency version security lock.
     - `lint`: Here we configure the sintaxe patterns
     - `.gitignore`: Here we declare the files that don't send to our repository.
 
-</br>
-</br>
-</br>
 
 ## Components Concepts
 
-In VUE.js, everything is a component. And these components are Single File Component (SFC), his maske up 
-with:
+In VUE.js, everything is a component. And these components are Single File Component (SFC), his make up with:
 
 - **TEMPLATE**: In template is our our HTML structure
 - **SCRIPT**: In script is our javascript code
-- **STYLE**: In style is our CSS code.
+- **STYLE**: In style is our CSS code
 
-</br>
 
 ### Creating a Component
 
-In Component folder, create a new .vue file. 
-The name would be named with <ins>two words</ins>, with <ins>PascalCase</ins>. For example:
+In Component folder, create a new **.vue** file. 
+The name would be named with <ins>two words</ins>, with <ins>PascalCase</ins>. Examples:
 
 `TheHeader.vue`
 `SubmmitButton.vue`
 
-</br>
 
 ### Importing and declaring Component Globally
 
 If you use the same component, at all or almost pages. We can import the component globally. 
 In <ins>main.js</ins> file, use the <ins>.component()</ins> method:
 
-    import {createApp} from 'vue'
-    import TheHeader from '.components/TheHeader.vue'
-    import SubmmitButton from './components/SubmmitButton.vue'
+```
+import {createApp} from 'vue'
+import TheHeader from '.components/TheHeader.vue'
+import SubmmitButton from './components/SubmmitButton.vue'
 
-    const app = createApp({})
+const app = createApp({})
 
-    app.component('TheHeader', TheHeader)
-    app.component('SubmmitBUtton', SubmmitButton)
+app.component('TheHeader', TheHeader)
+app.component('SubmmitBUtton', SubmmitButton)
 
-    //or
+//or
 
-    app
-      .component('TheHeader', TheHeader)
-      .component('SubmmitButton', SubmmitButton)
+app
+  .component('TheHeader', TheHeader)
+  .component('SubmmitButton', SubmmitButton)
+```
 
-</br>
+
 
 ### Importing and declaring Component Locally
 
 In a parent component, we need to import and declare de component that we want to use. Like this:
 
-    // Option API
+```
+// Option API
 
-    <script>
-      import TheHeader from './components/TheHeader.vue'
-      import SubmmitButton from './components/SubmmitButton.vue'
+<script>
+  import TheHeader from './components/TheHeader.vue'
+  import SubmmitButton from './components/SubmmitButton.vue'
 
-      export default {
-        components: {
-          TheHeader,
-          SubmmitButton
-        }
-      }
-    </script>
+  export default {
+	components: {
+	  TheHeader,
+	  SubmmitButton
+	}
+  }
+</script>
 
-    // Composition API
+// Composition API
 
-    <script setup>
-      import TheHeader from './components/TheHeader.vue'
-      import SubmmitButton from './components/SubmmitButton.vue'
-    </script>
+<script setup>
+  import TheHeader from './components/TheHeader.vue'
+  import SubmmitButton from './components/SubmmitButton.vue'
+</script>
+```
 
-</br>
 
 ### Using Component
 
 For using our component, use need to declare him inside of template, with <ins>kebab-case</ins>.Like this:
 
-    <template>
-      <the-header />
-      <submmit-button />
-    </template
+```
+<template>
+  <the-header />
+  <submmit-button />
+</template
+```
 
 Or:
 
-    <template>
-      <the-header></the-header>
-      <submmit-button></submmit-button>
-    </template>
+```
+<template>
+  <the-header></the-header>
+  <submmit-button></submmit-button>
+</template>
+```
 
 <a href="https://vuejs.org/guide/components/registration.html" target="_blank">Official Documentation</a>
 
-</br>
 
 ### Capturing Template Element
 
@@ -164,352 +156,382 @@ We can catch the HTML content for use and explore in javascript language (script
 
 `refs`: Wich refs we can select the HTML content with him values and parameters. For this, we use the **ref** parameter, and we named as we want. Example:
 
-    <template>
-      <input type="text" ref="input">
-    </template>
+```
+<template>
+  <input type="text" ref="input">
+</template>
+```
 
 After, we can use this HTML element to inspect and use.
 
-`$`: The dollar sign is a special VUE property, and ever we wanna see some VUE propertie we needed to use. Example:
+`$`: The dollar sign is a special VUE property, and ever we wanna see some VUE property we needed to use. Example:
 
-    <template>
-      <input type="text" ref="input">
-    </template>
+```
+<template>
+  <input type="text" ref="input">
+</template>
 
-    // Options API
+// Options API
 
-    <script>
-    export default {
-      data() {
-        return {
-          content: ''
-        }
-      }
-      mounted() {
-        this.content = this.$refs.input
-      }
-    }
-    </script>
+<script>
+export default {
+  data() {
+	return {
+	  content: ''
+	}
+  }
+  mounted() {
+	this.content = this.$refs.input
+  }
+}
+</script>
 
-    // Composition API (we don't need use the $)
+// Composition API (we don't need use the $)
 
-    <script setup>
-    import { ref, onMounted } from 'vue'
+<script setup>
+import { ref, onMounted } from 'vue'
 
-    // the name of data must match template ref value
-    const input = ref(null)
+// the name of data must match template ref value
+const input = ref(null)
 
-    onMounted(() => {
-      content = input
-      console.log(content)
-    })
-    </script>
+onMounted(() => {
+  content = input
+  console.log(content)
+})
+</script>
+```
 On this example, we have the HTML element content with your tags, and values. 
 
-`dir`: With dir, we can specify the element diretory content. Example:
+`dir`: With **dir**, we can specify the element directory content. The result will be all elements properties. Example:
 
-    <template>
-      <input type="text" ref="input">
-    </template>
+```
+<template>
+  <input type="text" ref="input">
+</template>
 
-    // Options API
+// Options API
 
-    <script>
-    export default {
-      data() {
-        return {
-          content: ''
-        }
-      }
-      mounted() {
-        this.content = this.$refs.input
-        console.dir(this.$refs.input)
-      }
-    }
-    </script>
+<script>
+export default {
+  data() {
+	return {
+	  content: ''
+	}
+  }
+  mounted() {
+	this.content = this.$refs.input
+	console.dir(this.$refs.input)
+  }
+}
+</script>
 
-    // Composition API
+// Composition API
 
-    <script setup>
-    import { ref, onMounted} from 'vue'
-  
-    const input = ref(null)
+<script setup>
+import { ref, onMounted} from 'vue'
 
-    onMounted(() => {
-      content = input
-      console.dir(content)
-    })
-    </script>
+const input = ref(null)
+
+onMounted(() => {
+  content = input
+  console.dir(content)
+})
+</script>
+```
 
 And with that, we can work with the directory. Example:
 
-    <template>
-      <input type="text" ref="input">
-    </template>
+```
+<template>
+  <input type="text" ref="input">
+</template>
 
-    // Options API
+// Options API
 
-    <script>
-    export default {
-      data() {
-        return {
-          content: ''
-        }
-      }
-      mounted() {
-        // value directory:
-        this.content = this.$refs.input.value
-        console.dir(this.$refs.input)
-      }
-    }
-    </script>
+<script>
+export default {
+  data() {
+	return {
+	  content: ''
+	}
+  }
+  mounted() {
+	// value directory:
+	this.content = this.$refs.input.value
+	console.dir(this.$refs.input)
+  }
+}
+</script>
 
-    // Composition API 
+// Composition API 
 
-    <script setup>
-    import { ref, onMounted} from 'vue'
+<script setup>
+import { ref, onMounted} from 'vue'
 
-    const input = ref(null)
+const input = ref(null)
 
-    onMounted(() => {
-      content = input.value
-      console.log(content)
-    })
-    </script>
+onMounted(() => {
+  content = input.value
+  console.log(content)
+})
+</script>
+```
 
 <a href="https://vuejs.org/guide/essentials/template-refs.html#accessing-the-refs" target="_blank">Official Documentation</a>
 
 
-</br>
-</br>
-</br>
 
 ## Component API's
 
-On Vue 3, we have two ways to define the component, **Composition** and **Options**. Let's se each way.
+On Vue 3, we have two ways to define the component, **Composition** and **Options** API. Let's se each way.
 
-</br>
 
 ### Options API
 
 On the **Options API**, we have four main options for define our component. Let's check:
 
-`data()`: Here we define our reactive datas, when we need to call some data in another field of our script, we call this
-data with **this.** prefix.
+`data()`: Here we define our reactive datas, when we need to call some data in another field of our script, we call this data with **this** prefix.
 
-    <script>
-    export default {
-      data() {
-        return {
+```
+<script>
+export default {
+  data() {
+	return {
 
-          // number
-          number: 0
+	  // number
+	  number: 0
 
-          // strings
-          theString: 'some text',
+	  // strings
+	  theString: 'some text',
 
-          // boolean
-          validated: false,
+	  // boolean
+	  validated: false,
 
-          // object
-          someObject: {
-            color: 'white',
-            age: 21,
-            name: Caio
-          },
-          
-          // arrays lists
-          theArray: [
-            pineapple,
-            apple,
-            banana
-          ]
-        }
-      }
-    }
-    </script>
+	  // object
+	  someObject: {
+		color: 'white',
+		age: 21,
+		name: Caio
+	  },
+	  
+	  // arrays lists
+	  theArray: [
+		pineapple,
+		apple,
+		banana
+	  ]
+	}
+  }
+  
+consle.log(this.number)
 
-</br>
+}
+</script>
+```
+
+
 
 `methods`: With methods, we define your functions and logics. We can call our method's on events, inside other methods, inside of template and hooks. Ever something change on the page, the methods are be called
-</br>
 
-**Use**: Use the to run logics whenever any change occurence on the page, on interpolation and events.
 
-    <script>
-    export default {
-      data() {
-        name: ''
-      },
-      methods: {
-        changeName() {
-          // Remember to use the "this." prefix
-          this.name = 'Caio'
-        }
-      }
-    }
-    </script>
+**Use**: Use the to run logics whenever any change occurrence on the page, on interpolation and events.
 
-</br>
+```
+<script>
+export default {
+  data() {
+	name: ''
+  },
+  methods: {
+	changeName() {
+	  // Remember to use the "this." prefix
+	  this.name = 'Caio'
+	}
+  }
+}
+</script>
+```
 
-`computed`: Computed's properties, works like a methods, but computed should ever return something, can be called on templates as a data properties, but can't be called on template events, because Computed's are getters. Computed's are be recalculated if just some computed dependency changes (the dependencies are saving in cache).
-</br>
+
+
+`computed`: Computed's properties, works like a methods, but computed should ever return something, can be called on templates as a data properties. Computed's are be recalculated if just some computed dependency changes (the dependencies are saving in cache).
 
 **Use**: The computed's properties, works like a data properties. Use for derivate data based in another datas, when the de dependency data suffer some change.
 
-    <script>
-    export default {
-      data() {
-        name: 'Carlos',
-        lastName: 'Fonseca'
-      },
-      computed: {
-        fullName() {
+```
+<script>
+export default {
+  data() {
+	name: 'Carlos',
+	lastName: 'Fonseca'
+  },
+  computed: {
+	fullName() {
 
-          // name is a dependency
-          if (this.lastName === '') {
-            return this.name
-          } else {
-            return `${this.firstName} ${this.lastName}`;
-          }
-        }
-      }
-    }
-    </script>
+	  // name is a dependency
+	  if (this.lastName === '') {
+		return this.name
+	  } else {
+		return `${this.firstName} ${this.lastName}`;
+	  }
+	}
+  }
+}
+</script>
+```
 
-</br>
+
 
 `watchers`: Watchers works watching some data our computed, for execute some logic, but don't to return another value based on the watched value. The objetive is execute some logic. The name should be the same name of the computed our data that being watched.
-</br>
+
 
 **Use**: Run in real time, ever the data changed. Use for any non-data updated your want to make. Named with the same name as the property being assisted. Recomended in the http requests.
-</br>
+
 
 **Params**: We can access the old and new value, setting the params.
-</br>
+
 
 **deep**: If you work with a object, and need that watch run when the nested property change, you need to use Deep, property:
 
-    <script>
-    export default {
-      data() {
-        name: '',
-        showName: false,
-      },
-      watch: {
-        name( newName, oldName ) {
-          console.log('The new name is: ', newName, ', and the old name is: ', oldName)
-          showName = true
-        }
-      }
-    }
-    </script>
+```
+<script>
+export default {
+  data() {
+	name: '',
+	showName: false,
+  },
+  watch: {
+	name( newName, oldName ) {
+	  console.log('The new name is: ', newName, ', and the old name is: ', oldName)
+	  showName = true
+	}
+  }
+}
+</script>
 
-    // With Deep property
+// With Deep property
 
-    <script>
-    export default {
-      data() {
-        user: {
-          name: '',
-          lastName: '',
-        },
-        showName: false,
-      },
-      watch: {
-        name( newValue, oldValue ) {
-          console.log('The new full name is: ', newValue.Name + newValue.lastName)
-          showName = true
-        },
-        deep: true
-      }
-    }
-    </script>
+<script>
+export default {
+  data() {
+	user: {
+	  name: '',
+	  lastName: '',
+	},
+	showName: false,
+  },
+  watch: {
+	name( newValue, oldValue ) {
+	  console.log('The new full name is: ', newValue.Name + newValue.lastName)
+	  showName = true
+	},
+	deep: true
+  }
+}
+</script>
+```
 
 <a href="https://vuejs.org/api/options-state.html#options-state" target="_blank">Official Documentation</a>
 
 
-### Compostion API
+### Composition API
 
-In the Composition API, we have some diferent approaches
+In the Composition API, we have some different approaches. 
 
-`data() -> refs`: In composition API, data properties become a normal variables, but they are declared with **ref()**. And all of them, behind the scenes are objects.
+In addition to having a different approach to the options, in the end of script tag, we need to return what we declare on our options like this:
 
-**Use**:Here, we use the reactive data with simple form:
+```
+<script>
+return {
+	userName: userName
+}
+</script>
+```
 
-    <script>
-    import { ref } from 'vue'
+Let's take a closer look bellow.
 
-    export default {
-      setup() {
-      
-        // user const, EVER
-        const uName = ref('Caio Montenegro')
+`data() -> refs`: In composition API, data properties become a normal variables, but they are declared with **ref()**. And all of them, behind the scenes are objects, so for call you need to use  the suffix **.value**. For declare a new reactive data, ever use **const** method
 
-        setTimeout(() => {
+**Use**: Here, we use the reactive data with simple form:
 
-          // Remember, here the datas was saved as object
-          uName.value = 'Caio'
-        })
+```
+<template>
+  // on template, we don't need use .value
+  <h1>{{ uName }}</h1>
+</template>
+<script>
 
-        return { userName: uName}
-      }
-    }
-    </script>
+import { ref } from 'vue'
 
-    <template>
-      <h1>{{ uName }}</h1>
-    </template>
+export default {
+  setup() {
+  
+	// user const, EVER
+	const uName = ref('Caio Montenegro')
+
+	setTimeout(() => {
+
+	  // Remember, here the datas was saved as object, so use .value
+	  uName.value = 'Caio'
+	})
+
+	return { userName: uName}
+  }
+}
+</script>
+```
 
 For use with objects, we can use the **ref()**, but we can also user the **reactive()**, because he simplified the code. Let's see:
 
-    // With refs()
+```
+// With refs()
 
-    <script>
-    import { ref } from 'vue'
+<script>
+import { ref } from 'vue'
 
-    export default {
-      setup() {
-      
-        const user = ref({
-          name: "Caio Montenegro",
-          age: 31
-        })
+export default {
+  setup() {
+  
+	const user = ref({
+	  name: "Caio Montenegro",
+	  age: 31
+	})
 
-        setTimeout(() => {
-          user.value.name = 'Caio'
-          user.value.age = 32
-        })
+	setTimeout(() => {
+	  user.value.name = 'Caio'
+	  user.value.age = 32
+	})
 
-        return { user: user}
-      }
-    }
-    </script>
+	return { user: user}
+  }
+}
+</script>
 
-    // with reactive()
+// with reactive()
 
-    <script>
-    import { ref, reactive } from 'vue'
+<script>
+import { ref, reactive } from 'vue'
 
-    export default {
-      setup() {
-      
-        const user = reactive({
-          name: "Caio Montenegro",
-          age: 31
-        })
+export default {
+  setup() {
+  
+	const user = reactive({
+	  name: "Caio Montenegro",
+	  age: 31
+	})
 
-        setTimeout(() => {
-          
-          // Here we don't need use the .value
-          user.name = 'Caio'
-          user.age = 32
-        })
+	setTimeout(() => {
+	  
+	  // Here we don't need use the .value
+	  user.name = 'Caio'
+	  user.age = 32
+	})
 
-        return { user: user}
-      }
-    }
-    </script>
+	return { user: user}
+  }
+}
+</script>
+```
 
 Now, let's see the simplified code, with **Script Setup**, with ref() and reactive():
 
@@ -552,7 +574,7 @@ Now, let's see the simplified code, with **Script Setup**, with ref() and reacti
 
     </script>
 
-</br>
+
 
 `methods -> Regular Functions`: Here, we can use the simple functions, to substitute the methods, just like that:
 
@@ -602,7 +624,7 @@ Now, let's see the simplified code, with **Script Setup**, with ref() and reacti
 
     </script>
 
-</br>
+
 
 `Computed`: let's see how we can use the computed:
 
@@ -676,16 +698,12 @@ Now, let's see the simplified code, with **Script Setup**, with ref() and reacti
     </script>
 
 
-</br>
-</br>
-</br>
 
 ## Interpolation
 
 We can use a reactive data and some logics, in our template component. For that we use the Interpolation, with
 Mustache sintax (double curly braces).
 
-</br>
 
 ### Text Interpolation
 
@@ -716,7 +734,7 @@ Using reactive data on your template. Example:
 
 We also use Objects, and Array lists in Mustache sintax.
 
-</br>
+
 
 ### Javascript Interpolation
 
@@ -828,15 +846,13 @@ The interpolation, also accepts javascript language logics. Example:
 
 <a href="https://vuejs.org/guide/essentials/template-syntax.html#text-interpolation" target="_blank">Official Documentation</a>
 
-</br>
-</br>
-</br>
+
 
 ## Directives
 
 Directives are be VUE instructions. lets see these instructions below:
 
-</br>
+
 
 ### Bind Directive
 
@@ -898,7 +914,7 @@ Directive to use a reactive data, on html properties. With this directive we can
     const imgURL: ref('/path/src/img/myImage.png')
     <script>
 
-</br>
+
 
 
 
@@ -929,7 +945,7 @@ Directive to use a reactive data, on html properties. With this directive we can
     const value = ref(01)
     </script>
 
-</br>
+
 
 ### Two Way Bind Directive
 
@@ -1084,7 +1100,7 @@ The VUE offer us a directive to implement a two-way data binding, that is, the u
     const colors = ref([])
     </script>
 
-</br>
+
 
 ### Conditional Directives
 
@@ -1145,7 +1161,7 @@ These directives, will show some content based on some condition.
 
 The <nis>v-show,</nis> makes the content to be loaded in DOM, even if the condition is false. But he input a style: **dipslay: none;** if the condition was false.
 
-</br>
+
 
 `v-if`: Use for show some content if the condition is **TRUE** or **FALSE**. Example:
 
@@ -1174,7 +1190,7 @@ The <nis>v-show,</nis> makes the content to be loaded in DOM, even if the condit
 
 The diference between **v-if** of **v-show**, that's **v-if** not be loaded at DOM, if the condition is not met.
 
-</br>
+
 
 `v-else-if`: Use for gives continue the condition logic, if you have more than one content based on the conditions you may have. Example:
 
@@ -1206,7 +1222,7 @@ The diference between **v-if** of **v-show**, that's **v-if** not be loaded at D
     const secundaryText = ref('Hello VUE 3')ref(
     </script>
 
-</br>
+
 
 `v-else`: Use for show a content if the previous conditions is not be met. Exemple:
 
@@ -1308,7 +1324,7 @@ With Object:
 
 <a href="https://vuejs.org/api/built-in-directives.html#built-in-directives" target="_blank">Official Documentation</a>
 
-</br>
+
 
 ### Event Binding (Event listener)
 
@@ -1364,7 +1380,6 @@ The directive for listen javascript events.
 
 <a href="https://vuejs.org/guide/essentials/event-handling.html#listening-to-events" target="_blank">Official Documentation</a>
 
-</br>
 
 ### Once Render Content
 
@@ -1397,7 +1412,7 @@ For render the content or element once only, use the **v-once**.
 
 <a href="https://vuejs.org/api/built-in-directives.html#v-once" target="_blank">Official Documentation</a>
 
-</br>
+
 
 ### Render Static Content
 
@@ -1411,7 +1426,7 @@ For render the static content.
 
 <a href="https://vuejs.org/api/built-in-directives.html#v-pre" target="_blank">Official Documentation</a>
 
-</br>    
+
 
 ### Dinamic Content For Child Component
 
@@ -1514,7 +1529,7 @@ With scoped, we can pass child data to the parent. Example:
 
 <a href="https://vuejs.org/api/built-in-directives.html#v-slot" target="_blank">Official Documentation</a>
 
-</br>
+
 
 ### HTML Dinamic Content
 
@@ -1549,15 +1564,13 @@ For render html tags, contained in string value, we can use a simple, but danger
 
 <a href="https://vuejs.org/api/built-in-directives.html#v-html" target="_blank">Official Documentation</a>
 
-</br>
-</br>
-</br>
+
 
 ## Class and Styles Bindings
 
 The VUE offer us a simple way to apply Dinamic Classes and Styles: Class and Style Bindings. For apply the dinamic class and styles, we'll use the [Data Bindin Concepts](#Bind-Directive).
 
-</br>
+
 
 ### Binding Class
 
@@ -1668,7 +1681,7 @@ We can apply some logic dinamic class when we use array format with **Ternary Ex
       </span>
     </template>
 
-</br>
+
 
 ### Binding Styles
 
@@ -1728,9 +1741,7 @@ The logic for apply dinamic styles on our component is the same such **dinamic c
 
 <a href="https://vuejs.org/guide/essentials/class-and-style.html#class-and-style-bindings" target="_blank">Official Documentation</a>
 
-</br>
-</br>
-</br>
+
 
 ## Component Lifecycle
 
@@ -1748,7 +1759,7 @@ can see the order:
 - 5 - [beforeUnmount](#beforeUnmount)
 - 6 - [unmounted](#unmounted)
 
-</br>
+
 
 ### beforeCreate
 
@@ -1764,7 +1775,7 @@ All routines declared here, will be executed before component is created. That i
     }
     </script>
 
-</br>
+
 
 ### created
 
@@ -1780,7 +1791,7 @@ The routines that will be declared here, will be declared after the component is
     }
     </script>
 
-</br>
+
 
 ### beforeMount
 
@@ -1806,7 +1817,7 @@ Here, the function and instructions will be executed, before the component is ad
     })
     </script>
 
-</br>
+
 
 ### mount
 
@@ -1832,7 +1843,7 @@ Right after a component is added to the DOM tree, the **mounted** function is ca
     })
     </script>
 
-</br>
+
 
 ### beforeUpdate
 
@@ -1857,7 +1868,7 @@ Is called whenever there is a change in the data fof your component, but before 
     })
     </script>
 
-</br>
+
 
 ### updated
 
@@ -1883,7 +1894,7 @@ This hook is called after our component has updated it's DOM tree.
     })
     </script>
 
-</br>
+
 
 ### beforeUnmount
 
@@ -1907,7 +1918,7 @@ This hook is called just before a componet is removed from the DOM
     })
     </script>
 
-</br>
+
 
 ### unmounted
 
@@ -1935,11 +1946,9 @@ This hook is called when the component is removed from the DOM tree.
 
 
 <a href="https://vuejs.org/api/options-lifecycle.html" target="_blank"> Official Option API Documentation</a>
-</br>
+
 <a href="https://vuejs.org/api/composition-api-lifecycle.html" target="_blank">Official Composition API Documentation</a>
 
-</br>
-</br>
-</br>
+
 
 
