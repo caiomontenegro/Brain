@@ -99,7 +99,8 @@ Access the Pages directory, and recreate the folder structure that we create pre
 ![[diretorio2.png]]
 
 
-O arquivo index.vue será o template do e-mail. Para iniciar com uma configuração padrão. Utilize esse conteúdo:
+
+The **index.vue** file will be the e-mail template. To start with default settings, use this content:
 
 <template>
   <mail-container>
@@ -159,50 +160,53 @@ To add new dinamic images on template, we need to request to infra-cloud.
 
 Check the note to [[Adding Dinamic Images]] and follow the guide.
 
-
-Após documentar o contrato que deseja receber, mande esse contrato para o seu backend. Para que ele possa preparar a rota e retornar os dados através da mesma.
-
+After document the contract that you wish receive, send this contract to backend developer. The backend developer will be prepare the route and return the data via the route.
 
 ## Template
 
-For test the visual tempalte, run the commando:
+For test the template visual, run the command:
 
 ```
 make up dev-preview
 ```
 
-No browser, acesse a rota:
+In browser,  access the route and replace the content of the tags with your template route.
 
+```
 https://template-builder-service.m16180824.orp-1.colaboradores.labgerencianet.com.br/<rota-para-page>?mock=true
+```
 
 exemplo:
 
 https://template-builder-service.m16180824.orp-1.colaboradores.labgerencianet.com.br/insurance/email/trusted-contact?mock=true
 
+The template content should be styled inside of HTML tags. 
 
-SWAGGER
 
-1 - Configuração
+
+## SWAGGER
+
 
 Acesse o diretório "docs", e depois no arquivo "template-builder.yaml". Configure esse padrão de sessão e rotas:
+Access the **docs** 
 
+```
  # ======= Rotas - <Nome da Sessão> =======
   /api/<fluxo>/email/<produto do fluxo>/<parte específica do produto>:
     $ref: "./<rota do arquivo da conterá as informações da rota>"
+```
 
-Exemplo:
+Example:
+![[swagger-routes.png]]
 
- # ======= Rotas - Seguros =======
-  /api/insurances/email/invoice-paid/trusted-contact:
-    $ref: "./insurances/email/invoice-paid/trusted-contact/trusted-contact.yaml"
 
-2 - Criando o swagger
 
-Ainda dentro do diretório "docs", crie um novo diretório com o nome do fluxo, por exemplo "Seguros". Dentro desse diretório crie novamente a estrutura de diretórios de "email" e se necessário também de "pdf. Ex:
+Still inside of **docs** directory, create a new directory and name it with the name of the service flow, for example "Seguros". And inside of this new directory, create again the directory structure with email and pdf (if necessary). Example:
 
-docs > insurance > email
-                 > pdf
 
+![[docs-structure.png]]
+
+Inside of email folder, create two new yaml files, the first of them will be named with our email name. Example: credit.yaml
 Dentro de email, criaremos dois novos arquivos de yaml, o primeiro deles será com o nome do nosso email. Exemplo: trusted-contact.yaml
 
 Dentro desse arquivo iremos adicionar esse padrão de configuração:

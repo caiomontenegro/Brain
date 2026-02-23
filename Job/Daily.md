@@ -7,12 +7,18 @@ Aguardando Bugbash do Contato do Gerente.
 
 # Daily:
 
-Tarefa Contato Comercial
-- Subi os últimos ajustes ontem na tarefa de testes unitários.
-- Fiz os ajustes da atualização na regra de exibição para todas as contas
-- Amanda validou, eu mandei a versão final para bugbash.
-- Revisei a tarefa do Tulio do TBS.
-- Revisando uma tarefa do Welker.
+Quarta-Feira período manhã
+- Puxei uma SP de Padronização de modal do backlog
+  - Fiz uma atualização
+  - Mandei para validação
+
+Hoje
+- Fiz um novo ajuste que a Ana solicitou no menu de contas, dentro da tarefa de Gerente de Contas.
+  - Fiz o deploy pra testes e retornei pra bugbash.
+- Puxei uma SP da Fabiane Gomes
+  Onde as telas de Exemplo de pagamento estão ficando indisponíveis.
+
+
 
 
 ## GP's:
@@ -51,3 +57,6 @@ Férias 13 a 27
 Folga 28
 Trabalha 31.
 
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                        
