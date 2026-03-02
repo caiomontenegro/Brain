@@ -19,14 +19,14 @@ Install and enable the Plugins:
 - `Advanced Canvas`
 - `background image`
 
-##### background setup
+#### background setup
 
 Open the background image plugin, past the URL and substitute the tag areas from the image data:
 
 Add English language to spellcheck languages, on option access the Editor on aside menu, and in behavior section
 add English version
 
-##### Clone Remote Repo
+#### Clone Remote Repo
 
 In obsidian press CTRL+P and search for clone git command.
 Type the url, and substitute the tag areas from your data:
