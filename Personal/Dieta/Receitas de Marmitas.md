@@ -52,6 +52,15 @@ Total Kcal/porção 150g: 479 kcal
 Total Kcal/porção 75g: 379 kcal
 
 
+[[Almondegas]]
+
+Rendimento: 8 lanches.
+Período rendido (semanas): 1
+Total Kcal: 4.493 kcal
+Total Kcal/porção 150g: 176 kcal
+Total Kcal/porção 100g: 117 kcal
+
+
 
 
 
