@@ -10,14 +10,14 @@ Go to Developer Settings on aside menu, and create a classic token. Setup with a
 
 Install the default themes: (optional)
 
-`Royal Velvet`
-`Blur`
+- `Royal Velvet`
+- `Blur`
 
 Install and enable the Plugins:
 
-`Git plugin`
-`Advanced Canvas`
-`background image`
+- `Git plugin`
+- `Advanced Canvas`
+- `background image`
 
 ##### background setup
 
