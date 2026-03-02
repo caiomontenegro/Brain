@@ -49,13 +49,13 @@ Ingredientes para [[Receitas de Marmitas]]
 - [ ] 1 Mostarda
 - [ ] 1 Caixa de creme de leite Mococa
 - [ ] 1 Molho inglês
-- [ ] 9 Cebolas.  (4 receitas)
-- [ ] 1 Cebolinha
+- [ ] 10 Cebolas.  (5 receitas)
+- [ ] 1 Cebolinha (2 receitas)
 - [ ] 1 Alho-poró
 - [ ] 4 Tomates.
 - [ ] 3 Pimentões cortados em cubos.
 - [ ] 1 Ramo de tomilho
-- [ ] 2 Cabeça de alho (5 receitas)
+- [ ] 2 Cabeça de alho (6 receitas)
 - [ ] 1 Salsão ( 2 receitas )
 - [ ] 1 Salsinha. (3 receitas)
 - [ ] 1 Sal 
