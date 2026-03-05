@@ -28,7 +28,9 @@ Recorrentes:
 - [ ] Detergente
 - [ ] Desengordurante
 - [ ] Sapólio
+- [ ] saco de lixo
 - [ ] Sabonete
+- [ ] Desodorante
 - [ ] Pasta de dente
 - [ ] Lamina de Barbear
 - [ ] Espuma de barbear
