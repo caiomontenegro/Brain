@@ -1,4 +1,3 @@
-# VUE 3 Resume Context 📜
 
 - ##### 1 [VUE CLI](#vue%20cli)
 - ##### 2 [Architecture](#architecture)
@@ -30,13 +29,27 @@
 - ##### 8 [Component Lifecycle](#component%20lifecycle)
 
 
+
+---
+
+
+
+
+
 ## VUE CLI
 
 For create a new VUE project, we can use the VUE CLI to build a vue project architecture.
 
 Access the link below and follow the steps:
 
-<a href="https://cli.vuejs.org/" target="_blank">Official CLI Tutorial</a>
+[Official CLI Tutorial](https://cli.vuejs.org/)
+
+
+
+---
+
+
+
 
 
 ## Architecture
@@ -58,6 +71,14 @@ The architecture project:
     - `.gitignore`: Here we declare the files that don't send to our repository.
 
 
+
+
+---
+
+
+
+
+
 ## Components Concepts
 
 In VUE.js, everything is a component. And these components are Single File Component (SFC), his make up with:
@@ -67,6 +88,7 @@ In VUE.js, everything is a component. And these components are Single File Compo
 - **STYLE**: In style is our CSS code
 
 
+
 ### Creating a Component
 
 In Component folder, create a new **.vue** file. 
@@ -74,6 +96,8 @@ The name would be named with <ins>two words</ins>, with <ins>PascalCase</ins>. E
 
 `TheHeader.vue`
 `SubmmitButton.vue`
+
+
 
 
 ### Importing and declaring Component Globally
@@ -97,6 +121,8 @@ app
   .component('TheHeader', TheHeader)
   .component('SubmmitButton', SubmmitButton)
 ```
+
+
 
 
 
@@ -128,6 +154,8 @@ In a parent component, we need to import and declare de component that we want t
 ```
 
 
+
+
 ### Using Component
 
 For using our component, use need to declare him inside of template, with <ins>kebab-case</ins>.Like this:
@@ -148,7 +176,10 @@ Or:
 </template>
 ```
 
-<a href="https://vuejs.org/guide/components/registration.html" target="_blank">Official Documentation</a>
+[Official Documentation](https://vuejs.org/guide/components/registration.html)
+
+
+
 
 
 ### Capturing Template Element
@@ -164,6 +195,7 @@ We can catch the HTML content for use and explore in javascript language (script
 ```
 
 After, we can use this HTML element to inspect and use.
+
 
 `$`: The dollar sign is a special VUE property, and ever we wanna see some VUE property we needed to use. Example:
 
@@ -202,6 +234,8 @@ onMounted(() => {
 </script>
 ```
 On this example, we have the HTML element content with your tags, and values. 
+
+
 
 `dir`: With **dir**, we can specify the element directory content. The result will be all elements properties. Example:
 
@@ -278,7 +312,13 @@ onMounted(() => {
 </script>
 ```
 
-<a href="https://vuejs.org/guide/essentials/template-refs.html#accessing-the-refs" target="_blank">Official Documentation</a>
+[Official Documentation](https://vuejs.org/guide/essentials/template-refs.html#accessing-the-refs)
+
+
+
+---
+
+
 
 
 
@@ -290,6 +330,8 @@ On Vue 3, we have two ways to define the component, **Composition** and **Option
 ### Options API
 
 On the **Options API**, we have four main options for define our component. Let's check:
+
+
 
 `data()`: Here we define our reactive datas, when we need to call some data in another field of our script, we call this data with **this** prefix.
 
@@ -333,7 +375,6 @@ consle.log(this.number)
 
 
 `methods`: With methods, we define your functions and logics. We can call our method's on events, inside other methods, inside of template and hooks. Ever something change on the page, the methods are be called
-
 
 **Use**: Use the to run logics whenever any change occurrence on the page, on interpolation and events.
 
@@ -385,12 +426,9 @@ export default {
 
 `watchers`: Watchers works watching some data our computed, for execute some logic, but don't to return another value based on the watched value. The objetive is execute some logic. The name should be the same name of the computed our data that being watched.
 
-
-**Use**: Run in real time, ever the data changed. Use for any non-data updated your want to make. Named with the same name as the property being assisted. Recomended in the http requests.
-
+**Use**: Run in real time, ever the data changed. Use for any non-data updated your want to make. Named with the same name as the property being watched. Recommended in the http requests.
 
 **Params**: We can access the old and new value, setting the params.
-
 
 **deep**: If you work with a object, and need that watch run when the nested property change, you need to use Deep, property:
 
@@ -432,7 +470,12 @@ export default {
 </script>
 ```
 
-<a href="https://vuejs.org/api/options-state.html#options-state" target="_blank">Official Documentation</a>
+
+**CAUTION**: in *methods*, *computeds*, and *watchers* we can't use arrow function, because arrow function doesn't have own **this**.
+
+[Official Documentation](https://vuejs.org/api/options-state.html)
+
+
 
 
 ### Composition API
@@ -443,13 +486,69 @@ In addition to having a different approach to the options, in the end of script 
 
 ```
 <script>
-return {
+// We see the ref propertie on the next topic.
+import {ref} from 'vue'
+
+export default {
+	setup () {
+	const userName = ref('text')
+	}
+	return {
 	userName: userName
+	}
 }
 </script>
 ```
 
+On Composition API, we can use **arrow functions** because we don't have **.this** in our options
+
+
+
+`setup`: to simplify this code, we cand user **setup** property on the script tag, and we'll not need to declare:
+
+- *export default {}*
+- *setup ()*
+- *return {}*
+
+Let's check:
+
+```
+<script setup>
+
+// We see the ref propertie on the next topic.
+import {ref} from 'vue'
+
+const userName = ref('text')
+
+</script>
+```
+
+When we use the **script setup**, we won access a some macros:
+
+- *defineProps*
+- *defineEmits*
+- *defineModel*
+- *defineOptions*
+- *defineExpose*
+
+We'll see them later.
+
+For declare our child's components, we don't need declare them as before. Now we only need to import them:
+
+```
+<template>
+	<dinamic-component />
+</template>
+
+<script setup>
+import DinamicComponent from '@/DinamicComponete.vue'
+</script>
+
+```
+
 Let's take a closer look bellow.
+
+
 
 `data() -> refs`: In composition API, data properties become a normal variables, but they are declared with **ref()**. And all of them, behind the scenes are objects, so for call you need to use  the suffix **.value**. For declare a new reactive data, ever use **const** method
 
@@ -534,46 +633,48 @@ export default {
 </script>
 ```
 
+
 Now, let's see the simplified code, with **Script Setup**, with ref() and reactive():
 
+```
+<template>
+  <h1>{{ uName }}</h1>
+</template>
 
-    <script setup>
-    import { ref } from 'vue'
+<script setup>
+import { ref } from 'vue'
 
-    const uName = ref('Caio Montenegro')
+const uName = ref('Caio Montenegro')
 
-    setTimeout(() => {
-      uName.value = 'Caio'
-    })
+setTimeout(() => {
+  uName.value = 'Caio'
+})
 
-    </script>
-
-    <template>
-      <h1>{{ uName }}</h1>
-    </template>
+</script>
 
 
-    // with object
+// with object
 
-    <template>
-      <h2>{{ user.name }}</h2>
-      <h3>{{ user.age}}</h3>
-    </template>
+<template>
+  <h2>{{ user.name }}</h2>
+  <h3>{{ user.age}}</h3>
+</template>
 
-    <script setup>
-    import { ref, reactive } from 'vue'
-    
-    const user = reactive({
-      name: "Caio Montenegro",
-      age: 31
-    })
+<script setup>
+import { ref, reactive } from 'vue'
 
-    setTimeout(() => {
-      user.name = 'Caio'
-      user.age = 32
-    })
+const user = reactive({
+  name: "Caio Montenegro",
+  age: 31
+})
 
-    </script>
+setTimeout(() => {
+  user.name = 'Caio'
+  user.age = 32
+})
+
+</script>
+```
 
 
 
@@ -581,122 +682,148 @@ Now, let's see the simplified code, with **Script Setup**, with ref() and reacti
 
 **Use**: 
 
-    <template>
-    <button @click="setAge" ></button>
-    </template>
+```
+<template>
+<button @click="setAge" ></button>
+</template>
 
-    <script> 
-    import { reactive } from 'vue'
+<script> 
+import { reactive } from 'vue'
 
-    export default {
-      setup() {
-        const user = reactive({
-          name: 'Caio',
-          age: 31
-        })
+export default {
+  setup() {
+	const user = reactive({
+	  name: 'Caio',
+	  age: 31
+	})
 
-        function setNewAge() {
-          user.age = 32
-        }
+	function setNewAge() {
+	  user.age = 32
+	}
 
-        return { user: ser, setAge: setNewAge}
-      }
-    }
-    </script>
+	return {
+		user: user,
+		setAge: setNewAge
+	}
+  }
+}
+</script>
 
-    // Simplified
+// Simplified (script setup)
 
 
-    <template>
-    <button @click="setAge" ></button>
-    </template>
+<template>
+<button @click="setAge" ></button>
+</template>
 
-    <script setup> 
-    import { reactive } from 'vue'
+<script setup> 
+import { reactive } from 'vue'
 
-    const user = reactive({
-      name: 'Caio',
-      age: 31
-    })
+const user = reactive({
+  name: 'Caio',
+  age: 31
+})
 
-    function setAge() {
-      user.age = 32
-    }
+function setAge() {
+  user.age = 32
+}
 
-    </script>
+//or
+
+const setAge = () => {
+	user.age = 32
+}
+
+</script>
+```
 
 
 
 `Computed`: let's see how we can use the computed:
 
-    <script>
-    import { reactive } from 'vue'
+```
+<script>
+import { reactive } from 'vue'
 
-    export default {
-      setup () {
+export default {
+  setup () {
 
-        const customer = reactive({
-          name: 'Caio Montenegro',
-          books: [
-            'Vinte Mil Léguas Submarinas', 
-            'O Senhor dos Anéis',
-            'Possessão'
-          ]
-        })
+	const customer = reactive({
+	  name: 'Caio Montenegro',
+	  books: [
+		'Vinte Mil Léguas Submarinas', 
+		'O Senhor dos Anéis',
+		'Possessão'
+	  ]
+	})
 
-        // computed:
-        const booksAcquired = computed(() => {
-          return customer.books.length > 0 ? 'yes' : 'No'
-        })
+	// computed (we can use arrow functions) 
+	const booksAcquired = computed(() => {
+	  return customer.books.length > 0 ? 'yes' : 'No'
+	})
 
-        return  {
-          customer,
-          booksAcquired
-        }
-      }
-    }
-      
-    </script>
+	return  {
+	  customer,
+	  booksAcquired
+	}
+  }
+}
+  
+</script>
 
-    // Simplified
+// Simplified
 
-    <script setup>
-    import { reactive } from 'vue'
+<script setup>
+import { reactive } from 'vue'
 
-    const customer = reactive ({
-      name: 'Caio Montenegro',
-      books: [
-        'Vinte Mil Légua Submarinas', 
-        'O Senhor dos Anéis',
-        'Possessão'
-      ]
-    })
+const customer = reactive ({
+  name: 'Caio Montenegro',
+  books: [
+	'Vinte Mil Légua Submarinas', 
+	'O Senhor dos Anéis',
+	'Possessão'
+  ]
+})
 
-    // computed:
+// computed: (now we can use computed with arrow function)
 
-    const booksAcquired = computed (() => {
-      return customer.books.length > 0 ? 'yes' : 'no'
-    })
-    </script>
+const booksAcquired = computed (() => {
+  return customer.books.length > 0 ? 'yes' : 'no'
+})
+</script>
+```
+
+
 
 `Watch`: Finally let's see watchers:
 
-    <script setup>
-    import { reactive, watch } from 'vue';
+```
+<script setup>
+import { reactive, watch } from 'vue';
 
-    // Definindo um objeto reativo
-    const user = reactive({
-      name: 'Carlos',
-      age: 30,
-    });
+// Defining a reactive object
+const user = reactive({
+	name: 'Carlos',
+	age: 30,
+});
 
-    // Usando o watch com deep para observar alterações no objeto inteiro
-    watch(user, (newVal, oldVal) => {
-      console.log('Pessoa foi alterada:');
-      console.log('Antes:', oldVal);
-      console.log('Depois:', newVal);
-    },{ deep: true });
-    </script>
+// Using the watch wieth deep property to watch changes throughout the object
+watch(user, (newVal, oldVal) => {
+	console.log('Pessoa foi alterada:');
+	console.log('Antes:', oldVal);
+	console.log('Depois:', newVal);
+},{ deep: true });
+</script>
+```
+
+[Official Documentation](https://vuejs.org/api/composition-api-setup.html)
+
+
+
+
+---
+
+
 
 
 
@@ -846,6 +973,12 @@ The interpolation, also accepts javascript language logics. Example:
     </script>
 
 <a href="https://vuejs.org/guide/essentials/template-syntax.html#text-interpolation" target="_blank">Official Documentation</a>
+
+
+
+
+----
+
 
 
 
@@ -1100,6 +1233,14 @@ The VUE offer us a directive to implement a two-way data binding, that is, the u
     import { ref } from 'vue'
     const colors = ref([])
     </script>
+
+
+
+
+
+---
+
+
 
 
 

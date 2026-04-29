@@ -2,10 +2,10 @@
 ## 🔹 TREINO A – POSTERIOR DE COXA + GLÚTEOS +
 
 1. **Agachamento livre** – 4x 12 
-2. **Elev Pelvica** – 4x 12 
+2. **Elevação Pélvica** – 4x 12 
 3. **Mesa flexora** – 4x 12
 4. **Cadeira abdutora** – 4x12
-5.  Panturrilha  – 4x 12
+5.  **Panturrilha**  – 4x 12
 
 ## 🔹 TREINO B – QUADRÍCEPS + GLÚTEOS
 
@@ -22,4 +22,4 @@
 3. **Desenvolvimento halteres** – 4x 12
 4. **Elevação lateral** – 4x 12
 5. **Tríceps barra** – 4x 12
-6. Rosca direta  – 4x 12
+6. **Rosca direta**  – 4x 12

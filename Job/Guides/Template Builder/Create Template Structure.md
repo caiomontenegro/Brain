@@ -26,7 +26,7 @@ Within this new folder, create a new TS file named:
 
 The structure will be:
 
-![[Brain/Job/Guias/Template Builder/assets/diretorio.png]]
+![[diretorio.png]]
 
 Copy all content of another index.post.ts, but change only redirect routes block code:
 
