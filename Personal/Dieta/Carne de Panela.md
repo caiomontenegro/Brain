@@ -5,8 +5,6 @@
 - 1.5kg de patinho
 - 2 Cebolas médias
 - 1 Cebolinha
-- 2 talos de salsão
-- 1 Alho-poró
 - 3 Dentes de alho
 - 3 C. de chá de pimenta do reino
 - 1 C. de sopa de extrato de tomate

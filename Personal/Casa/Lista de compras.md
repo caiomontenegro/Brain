@@ -25,10 +25,11 @@ Recorrentes:
 - [ ] Guardanapo
 - [ ] Papel toalha
 - [ ] Papel Higiênico
-- [ ] Detergente
+- [x] Detergente
 - [ ] Desengordurante
 - [ ] Sapólio
-- [ ] saco de lixo
+- [x] Palha de Aço
+- [x] saco de lixo
 - [ ] Sabonete
 - [ ] Desodorante
 - [ ] Pasta de dente
