@@ -29,10 +29,9 @@
 - ##### 8 [Component Lifecycle](#component%20lifecycle)
 
 
-
 ---
 
-
+Você estava vendo quebras de linha
 
 
 
@@ -64,7 +63,7 @@ The architecture project:
     - `components`: Our vue components files.
     - `app.vue`: the main component vue file.
     - `main.js`: inside this file, we have a instance vue app, and library imports like Design Systems
-    - `vue.config.js`: Special vue configs.
+    - `vue.config.js/vite.config.js`: Special vue configs.
     - `package.json`: all scripts and dependencies routines.
     - `package-lock.json`: Dependency version security lock.
     - `lint`: Here we configure the sintaxe patterns
@@ -89,7 +88,7 @@ In VUE.js, everything is a component. And these components are Single File Compo
 
 
 
-### Creating a Component
+#### Creating a Component
 
 In Component folder, create a new **.vue** file. 
 The name would be named with <ins>two words</ins>, with <ins>PascalCase</ins>. Examples:
@@ -99,8 +98,7 @@ The name would be named with <ins>two words</ins>, with <ins>PascalCase</ins>. E
 
 
 
-
-### Importing and declaring Component Globally
+#### Importing and declaring Component Globally
 
 If you use the same component, at all or almost pages. We can import the component globally. 
 In <ins>main.js</ins> file, use the <ins>.component()</ins> method:
@@ -125,9 +123,6 @@ app
 
 
 
-
-### Importing and declaring Component Locally
-
 In a parent component, we need to import and declare de component that we want to use. Like this:
 
 ```
@@ -150,13 +145,14 @@ In a parent component, we need to import and declare de component that we want t
 <script setup>
   import TheHeader from './components/TheHeader.vue'
   import SubmmitButton from './components/SubmmitButton.vue'
+  
+  // Here we don't need to use "export default"
 </script>
 ```
 
 
 
-
-### Using Component
+#### Using Component
 
 For using our component, use need to declare him inside of template, with <ins>kebab-case</ins>.Like this:
 
@@ -186,7 +182,7 @@ Or:
 
 We can catch the HTML content for use and explore in javascript language (script).
 
-`refs`: Wich refs we can select the HTML content with him values and parameters. For this, we use the **ref** parameter, and we named as we want. Example:
+`refs`: Wich refs we can select the HTML content with him values and parameters. For this, we use the **ref** parameter, and we named how we want. Example:
 
 ```
 <template>
@@ -204,6 +200,8 @@ After, we can use this HTML element to inspect and use.
   <input type="text" ref="input">
 </template>
 
+
+
 // Options API
 
 <script>
@@ -219,6 +217,8 @@ export default {
 }
 </script>
 
+
+
 // Composition API (we don't need use the $)
 
 <script setup>
@@ -233,6 +233,7 @@ onMounted(() => {
 })
 </script>
 ```
+
 On this example, we have the HTML element content with your tags, and values. 
 
 
@@ -243,6 +244,8 @@ On this example, we have the HTML element content with your tags, and values.
 <template>
   <input type="text" ref="input">
 </template>
+
+
 
 // Options API
 
@@ -259,6 +262,8 @@ export default {
   }
 }
 </script>
+
+
 
 // Composition API
 

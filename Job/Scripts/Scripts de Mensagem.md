@@ -27,3 +27,4 @@ Descrição do Impacto:
 ### Aprovação:
 
 Atuei na demanda <Título do card> e preciso de sua aprovação para encaminharmos para deploy assim que possível. Toda os detalhes da demanda bem como evidências do desenvolvimento estão nesse card EDS-<Número do card>. Assim que possível poderia nos formalizar sua aprovação? :slightly_smiling_face:
+

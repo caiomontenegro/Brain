@@ -16,8 +16,28 @@ documentando como rodar o projeto do portal backend
 
 # Daily:
 
+- Captura e Persistencia de Parametros URL no Portal Frontend
+  Arthur validou o code da tarefa. 
+  Fizemos deploy
+  Eu acabei encontrando um bug enquanto coletava evidências em prod. em caso de acesso sem parametros, acionamos um fallback que identifica as chaves ['none', 'direct', '(none)', '(direct)'] no acquisition_campaign do local storage, para enviar um UTM de "Portal". Porém agora ocorreu uma nova chave: '(not set)' que não havia acontecido, por esse motivo ele não caiu no fallback.
+  Ajustei e criei um MR e vamos subir essa correção na primeira oportunidade
+- Tarefa de Vulnerabilidades do Portal Backend.
+  Eu fiz uma atualização de todos os plugins que não são compatíveis com o Strapi 5
+  Porém, um único plugin não é compatível com o Strapi 5 e já foi descontinuado. A função dele é que ele permite cadastrar redirects de URL (ex: /pagina-antiga → pagina nova) pelo admin do Strapi. O frontend consultava essa lista para redirecionar o usuário.
+  
+**Duas opções:**
 
+1. **Simples** — Criar um content-type "Redirect" direto no Strapi com campos source, destination e statusCode. Sem dependência externa, mas interface básica.
+    
+2. **Robusta** — Instalar o 
+    strapi-plugin-redirect-manager
+     (compatível com Strapi 5). É só adicionar no package.json e rodar npm install. Tem interface dedicada, mas é plugin de terceiro relativamente novo.
 
+Conversei com o diego, e ele me passou que O plugin é usado para redirecionar páginas descontinuadas (ex: posts de blog removidos) e foi muito utilizado na época da migração de domínio. Hoje o uso é bem menor e não há uma pessoa específica responsável por ele. Além disso, cada novo redirect exige rebuild do projeto por causa do sistema de rotas do Nuxt. Diego mencionou que faz tempo que não usam com frequência.
+
+ Por isso eu acho que a melhor alternativa é substituir o plugin  por um content-type nativo no Strapi com campos source, destination e statusCode. O time continua gerenciando redirects pelo painel admin. No frontend, vamos consumir esses dados via middleware em runtime, eliminando a necessidade de rebuild a cada novo redirect. Os poucos redirects ativos serão recadastrados manualmente.
+ 
+ 
 
 
 
@@ -49,64 +69,3 @@ Folga 28
 Trabalha 31.
 
 
-
-## Tarefa de Captura e Persistência de Parâmetros
-
-
-quando vier utm source, buscar o utm (Diego ainda vai definir)  salva-los em cookie. Tomar cuidado para não salvar isso no server side, deve ser salvo no CLIENT SIDE.
-
-o que seta no local storage a gente vai sempre usar o actualVisit 
-
-1- Identificar o middle que salva os cookies esta em session.global (registra todos os UTMS e Querys params na visita atual e primeira visita do cliente) em Actual Visit.
-
-2- UseAppLinks o que trás no visitData(getmetadata) no utm??
-
-3- jogar no useApplinks.ts e concatenar no link.
-
-4- substituir o QRcode estatico por uma lib que gere o QR desses links e use-os
-
-Dúvidas:
-Existem locais que já não utilizavam os appLinks através da composables, 
-
-Mapear os QR's e subir para bugbash
-
-Links e QR's solicitação de cartão:
-https://portal-frontend.m16180824.orp-1.colaboradores.labgerencianet.com.br/efi-bank/cartoes
-https://portal-frontend.m16180824.orp-1.colaboradores.labgerencianet.com.br/efi-bank/cartao-de-credito-pf
-https://portal-frontend.m16180824.orp-1.colaboradores.labgerencianet.com.br/efi-bank/cartao-de-credito-pj
-
-Links e QR's abertura de conta:
-
-(Após abrir aconta) 
-https://portal-frontend.m16180824.orp-1.colaboradores.labgerencianet.com.br/abrir-conta 
-(Botão "Abrir conta gratuita" e acessar o modal)
-https://portal-frontend.m16180824.orp-1.colaboradores.labgerencianet.com.br/efi-bank/cartoes
-https://portal-frontend.m16180824.orp-1.colaboradores.labgerencianet.com.br/efi-bank/cartao-de-credito-pf
-https://portal-frontend.m16180824.orp-1.colaboradores.labgerencianet.com.br/efi-bank/cartao-de-credito-pj
-
-
-Para abertura de contas:
-
-```
-<Qrcode
-  class="h-[24rem] w-[24rem] max-h-[24.8rem]"
-  ecc="M"
-  :value="getOpenAccountCtaLink()"
-/>
-
-import { useAppLinks } from '@composables/useAppLinks';
-const { getOpenAccountCtaLink } = useAppLinks();
-```
-
-Para solicitação de cartão de crédito
-
-```
-<Qrcode
-  class="h-[24rem] w-[24rem] max-h-[24.8rem]"
-  ecc="M"
-  :value="getCardsCtaLink()"
-/>
-
-import { useAppLinks } from '@composables/useAppLinks';
-const { getCardsCtaLink } = useAppLinks();
-```
