@@ -38,7 +38,7 @@ Conversei com o diego, e ele me passou que O plugin é usado para redirecionar p
  Por isso eu acho que a melhor alternativa é substituir o plugin  por um content-type nativo no Strapi com campos source, destination e statusCode. O time continua gerenciando redirects pelo painel admin. No frontend, vamos consumir esses dados via middleware em runtime, eliminando a necessidade de rebuild a cada novo redirect. Os poucos redirects ativos serão recadastrados manualmente.
  
  
-
+config ignored.
 
 
 ## MR Projetos:
