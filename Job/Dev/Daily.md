@@ -5,19 +5,22 @@ matrícula: m16180824
 Agência: 0001 Conta 593195-9
 user ID Amplitude: 1069273043502
 
-Recuperação Jira:GC0GA09PC4X4BZIHLI1F8P24
+Recuperação Jira: GC0GA09PC4X4BZIHLI1F8P24
 
 
+docker exec -it mysql-8.0.32 mysql -u root -p12345678 strapi
+INSERT INTO admin_users_roles_links (user_id, role_id) SELECT u.id, r.id FROM admin_users u, admin_roles r WHERE u.email = 'caio.montenegro@sejaefi.com.br' AND r.code = 'strapi-super-admin';
 
 # A Fazer:
-Criar pasta docs
-documentando como rodar o projeto do portal backend
+
 
 
 # Daily:
+
+
+
+
  
- 
-config ignored.
 
 
 ## MR Projetos:
@@ -25,8 +28,8 @@ config ignored.
 Conta digital - MR CD  
 Backend Conta - MR BFF  
 Template Builder - MR TBS  
-Portal Frontend - MR Portal frontend
-Portal Backend - MR Portal backend
+Portal Frontend - MR portal frontend
+Portal Backend - MR portal backend
 
 ## Vacation:
 
