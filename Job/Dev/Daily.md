@@ -13,9 +13,12 @@ INSERT INTO admin_users_roles_links (user_id, role_id) SELECT u.id, r.id FROM ad
 
 # A Fazer:
 
+Melhora no desempenho do GTM (inibi intereções nos primeiros 5s da page)
 
 
 # Daily:
+
+
 
 
 

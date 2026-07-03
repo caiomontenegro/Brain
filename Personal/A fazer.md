@@ -1,8 +1,17 @@
-Processador
-AMD Ryzen 
 
-Placas de Vídeo
-RX 7600 R$ 1600,00 
-Ryzem 5 5500 R$ 600,00
+Limpar a Casa
+Marcar exames e consulta com oftalmo da mãe
+Encontrar um novo fisioterapeuta pra mãe
+remarcar o meu oftalmo
+Devolver placa mãe Pichau
+refazer lista de compras
+fazer compras
+Fazer marmitas
+Criar um plano de arrematação
+Verificar Leds PC da mãe
+Comprar soro fisiologico em gel para mãe
+Montar planejamento segundo semestreg
+
+
 
 
