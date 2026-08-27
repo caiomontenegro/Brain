@@ -13,17 +13,56 @@ INSERT INTO admin_users_roles_links (user_id, role_id) SELECT u.id, r.id FROM ad
 
 # A Fazer:
 
-- Abrir GMUDS - Feito
-- Deploy Pagespeed - Feito
-- Roda nova pipeline para subir redirects de mkt novo - Feito
-- Subir novos documentos e contratos - Feito
-- Validar tarefa da Amanda- Feito
-- Confirmar se a tabela redirects funciona com o novo plugin sem necessidade de migração de dados - Feito
-    - Se necessário fazer endpoint de migração da tabela
-- ⁠Confirmar node 22 com strapi4 (ambiente local)
-- Olhar com infra cloud configuração do ambiente de testes com node 22
+- Google Tag Manager
+  - Download LAB
+- Code review Amanda
+- Fazer cursos Hacker Rangers
+- Encerrar Gmuds
+
+
+Pagespeed da página Bolix
+- Fotos do hero
+- swiper
+- Tag manager precisa esperar pra rodar
+
+
+run preview no final dockerfile
+make run command="npm run build:testing"
+
+
 
 # Daily:
+
+Colher evidencia de:
+texto de definição
+link de boletos
+
+
+patch/atualiza-node patch/atualiza-versao-strapi patch/content-types-redirect patch/remocao-gulp
+
+
+
+# CAB
+
+- Mudanças no BFF do conta Digital
+- E no Aplicativo do Conta Digital
+
+Uma nova funcionalidade que Contempla ambos os projetos:
+- Solicitação de aumento de limite por parte do cliente
+  Será feito através do menu de limites, onde clientes habilitados poderão visualizar um botão de solicitação.
+  Será direcionado um formulário: Com valor atual e um campo do limite desejado.
+  Intervalo mínimo entre solicitações de 90 dias
+  Registro  da data de solicitação. Com registros:
+  Cliente, data/hora, limite atual, limite desejado, status inicial (Em análise)
+  Bloqueio visual e funcional.
+
+Demais tarefas, todas no conta digital:
+- Atualização nos valores das tarifas de anuidade de cartão
+- Envio dos documentos CPF ou CNPJ em TED comum e programado, para uma validação antes do envio da transferência.
+- Correção de busca de cliente no menu de emissão de cobranças, onde o sistema não estava localizando de maneira correta nomes completos.
+
+
+
 
 **Tabela** 
 
@@ -61,18 +100,21 @@ No caso atual, draftAndPublish: false, então só o primeiro comando é necess�
 
 ## MR Projetos:
 
-Conta digital - MR CD  
-Backend Conta - MR BFF  
-Template Builder - MR TBS  
-Portal Frontend - MR portal frontend
-Portal Backend - MR portal backend
+Backend Conta Digital - MR BFF
+App Conta Digital - MR CD
+Design System - MR DS
+Login Provider - MR LP
+Pay frontend - MR PAY
+Download Lab - MR download
+Template builder Service - MR TBS
+Design System Nuxt - MR ds-nuxt
+GN Registration - MR gn-registration-ui
+MS Marketing - MR ms-marketing
+Pix Frontend - MR pix-frontend
+PIX UI - MR pix-ui
+Portal Backend - MR portal-backend
+Protal Frontend - MR portal-frontend
+Portal Lab - MR portal-lab
 
 ## Vacation:
-
-Julho
-
-
-Folga 28
-Trabalha 31.
-
 

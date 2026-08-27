@@ -32,3 +32,11 @@ Atuei na demanda <Título do card> e preciso de sua aprovação para encaminharm
 
 [@felipe.vasconcelos](https://gerencianet.slack.com/team/UTF9VQUA0) Deploy do CD realizado com sucesso, evidências coletadas e GMUDs finalizadas:  
 [Documentação -Web Automations]()
+
+
+| Rota                                           | Projeto                                                                                                                          |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| ```plaintext<br>app.sejaefi.com.br<br>```      | ```plaintext<br>app-conta-digital<br>```                                                                                         |
+| ```plaintext<br>login.sejaefi.com.br<br>```    | ```plaintext<br>auth<br>```                                                                                                      |
+| ```plaintext<br>download.sejaefi.com.br<br>``` | ```plaintext<br>app-conta-digital<br>```<br><br> (referenciado via <br><br>```plaintext<br>VITE_APP_DOWNLOAD_URL<br>```<br><br>) |
+| ```plaintext<br>pix.sejaefi.com.br<br>```      | ```plaintext<br>pix-ui<br>```<br><br> (confirmado pelo <br><br>```plaintext<br>VUE_APP_IMG_PATH<br>```<br><br>)                  |
