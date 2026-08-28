@@ -13,6 +13,9 @@ INSERT INTO admin_users_roles_links (user_id, role_id) SELECT u.id, r.id FROM ad
 
 # A Fazer:
 
+Deploys 31, comunicar a Amanda de entrar 09:30
+
+
 - Google Tag Manager
   - Download LAB
 - Code review Amanda
@@ -20,12 +23,13 @@ INSERT INTO admin_users_roles_links (user_id, role_id) SELECT u.id, r.id FROM ad
 - Encerrar Gmuds
 
 
+
 Pagespeed da página Bolix
 - Fotos do hero
 - swiper
 - Tag manager precisa esperar pra rodar
 
-
+simular um deploy para testar pagespeed.
 run preview no final dockerfile
 make run command="npm run build:testing"
 
@@ -57,7 +61,7 @@ Uma nova funcionalidade que Contempla ambos os projetos:
   Bloqueio visual e funcional.
 
 Demais tarefas, todas no conta digital:
-- Atualização nos valores das tarifas de anuidade de cartão
+- Atualização nos valores das tarifas de anuidade de cartão.
 - Envio dos documentos CPF ou CNPJ em TED comum e programado, para uma validação antes do envio da transferência.
 - Correção de busca de cliente no menu de emissão de cobranças, onde o sistema não estava localizando de maneira correta nomes completos.
 
