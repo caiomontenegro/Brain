@@ -13,8 +13,6 @@ INSERT INTO admin_users_roles_links (user_id, role_id) SELECT u.id, r.id FROM ad
 
 # A Fazer:
 
-Deploys 31, comunicar a Amanda de entrar 09:30
-
 
 - Google Tag Manager
   - Download LAB
@@ -33,37 +31,18 @@ simular um deploy para testar pagespeed.
 run preview no final dockerfile
 make run command="npm run build:testing"
 
-
+glpat-ypH_1Aquv1L8slyPnZE7Om86MQp1OmI2CA.01.0y053moyc
 
 # Daily:
 
-Colher evidencia de:
-texto de definição
-link de boletos
+Coletei algumas evidências e encerrei alguns GMUD's do deploy de ontem
+Cursos obrigatórios do Hacker Rangers
 
 
 patch/atualiza-node patch/atualiza-versao-strapi patch/content-types-redirect patch/remocao-gulp
 
 
 
-# CAB
-
-- Mudanças no BFF do conta Digital
-- E no Aplicativo do Conta Digital
-
-Uma nova funcionalidade que Contempla ambos os projetos:
-- Solicitação de aumento de limite por parte do cliente
-  Será feito através do menu de limites, onde clientes habilitados poderão visualizar um botão de solicitação.
-  Será direcionado um formulário: Com valor atual e um campo do limite desejado.
-  Intervalo mínimo entre solicitações de 90 dias
-  Registro  da data de solicitação. Com registros:
-  Cliente, data/hora, limite atual, limite desejado, status inicial (Em análise)
-  Bloqueio visual e funcional.
-
-Demais tarefas, todas no conta digital:
-- Atualização nos valores das tarifas de anuidade de cartão.
-- Envio dos documentos CPF ou CNPJ em TED comum e programado, para uma validação antes do envio da transferência.
-- Correção de busca de cliente no menu de emissão de cobranças, onde o sistema não estava localizando de maneira correta nomes completos.
 
 
 
