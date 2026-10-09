@@ -1,19 +1,23 @@
 
 
 Marcar consulta com oftalmo da mãe
+Marcar Cardiologista
 Encontrar um novo fisioterapeuta pra mãe
 Comprar soro fisiologico em gel para mãe
 
-
-Remarcar o meu oftalmo
+Comprar mesa
+Comprar banco Booth
 
 
 Limpar a Casa
 refazer lista de compras
+Fazer compras
+Listar problemas do carro 
+
+organizar a rotina de uma vez por todas
 
 
-Comprar mesa
-Comprar banco Booth
+
 
 Montar planejamento segundo semestre
 Concluir curso de Leilao
