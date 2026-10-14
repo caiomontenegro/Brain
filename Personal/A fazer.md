@@ -625,7 +625,7 @@ Como assim? Como ele conseguiu atingir o objetivo de voltar com você depois de 
 Nossa conversa foi confusa, enquanto eu estava frustrado e confuso e você estava reativa. Eu querendo entender a todo custo o que tinha acontecido, por que você havia decidido entrar naquele carro? Enquanto isso, você tentava se proteger de mensagens que pareciam ataques. Alegando um possível ciúmes. 
 
 Tive uma noite péssima, com pouquíssimas horas de sono, entre duas e 3 horas. Ela se revelaria ser a primeira de muitas. 
-Durante essa noite revisitei as conversas, li e as reli. Nada fazia sentido. Por que se expôs daquela maneira, depois de sempre deixar claro que se importava com o que diriam sobre você? Depois de tudo o que havíamos passado, términos e reencontros? Desabafo e orientações de amigos e nossas mães. Os nossos esforços para continuarmos nos vendo, pedindo apoio de sua mãe com a Helô, e eu com minha mãe em casa para que pudéssemos ficar juntos aqui! Ir embora com ele, era o objetivo dele e sabíamos disso, por que aceitar e encoraja-lo a manter essas atitudes?
+Durante essa noite revisitei as conversas, li e as reli. Nada fazia sentido. Por que se expôs daquela maneira, depois de sempre deixar claro que se importava com o que diriam sobre você? Depois de tudo o que havíamos passado, términos e reencontros? Desabafo e orientações de amigos e nossos parentes próximos. Os nossos esforços para continuarmos nos vendo, pedindo apoio de sua mãe com a Helô, e eu com minha mãe em casa para que pudéssemos ficar juntos aqui! Ir embora com ele, era o objetivo dele e sabíamos disso, por que aceitar e encoraja-lo a manter essas atitudes?
 Por que passou a me ver como alguém que está apenas com ciúmes, era rígido e queria controle? Sendo que eu estava bem com a presença dele, já havíamos conversado sobre isso...
 
 Algum motivo fez você agir de forma contrária a tudo o que já havíamos conversado. E eu não conseguia te acessar. Senti que todo os esforços que fizemos para ficar juntos do jeito certo, foram em vão. O motivo? Totalmente inacessível a mim. 
@@ -639,11 +639,208 @@ Esclarecimentos
 
 No dia seguinte, checamos a viabilidade de conversarmos pessoalmente, mas isso não foi possível, então seguimos por mensagens. 
 
-Eu estava triste, frustrado... Como aquilo pode ter acontecido? Por que não consigo te acessar? A mulher que conheço não mudaria de ideia tão rápido, e nem entraria na defensiva alegando que eu tinha ciúmes... 
+Eu estava triste, frustrado... Como aquilo pode ter acontecido? Por que não consigo te acessar? A mulher que conheço não mudaria de ideia tão rápido sobre a relação com o ex marido, e nem entraria na defensiva alegando que eu tinha ciúmes... 
 
 Iniciamos uma conversa. 
 
-Logo você trouxe novos pontos, como preocupação da possiblidade de eu querer encerrar os seus projetos com seu ex marido. Insegurança com o meu término com a Naura, e a discordância com a minha ideia de que você estava o encorajando a seguir com essas atitudes.
+Logo você trouxe novos pontos, como preocupação da possiblidade de eu querer encerrar os seus projetos com seu ex marido. Insegurança com o meu término com a Naura, e a discordância com a minha ideia de que você estava o encorajando a seguir com as atitudes de seu ex marido. Além disso, me considerou rígido demais.
+
+A conversa não caminhou bem, devido a dificuldade de passarmos o tom correto em nossa escrita... Logo iniciamos contato por telefone.
+
+Durante o telefonema, passamos a nos entender melhor. Ainda ouvíamos o que cada um dizia, mas agora com o tom correto. 
+
+Porém, não concordamos com o grau de importância que cada um dava para os fatos que ocorreram. Mas tive a seguinte conclusão: Ainda existem muitos pontos a serem resolvidos em seu casamento. Apartamento, carro, negócios, família, etc... E essas pendências abriam margem para que o seu ex marido se aproximasse, fazendo com esse esse tipo de ocasião se repetisse (O que no futuro, provou ser uma verdade).
+
+Meu plano então foi darmos um tempo para que conseguisse focar na solução desses problemas em aberto. Você concordou, mas colocou na mesa um ponto importante:
+Nossos sentimentos
+
+Com esse afastamento, correríamos o risco de deixar que nossa chama se apagasse. Deveríamos mesmo correr esse risco? Deixar algo especial e raro simplesmente possa diminuir a ponto de se extinguir por conta de um acontecimento? 
+
+A resposta de ambos foi "Não". 
+
+Logo, você sugeriu que mantivéssemos um contato próximo, algo um pouco além de amigos comuns para que deixássemos esse sentimento vivo, dessa forma nossa reaproximação iria acontecer aos poucos e estaríamos sempre desejando um ao outro. Foi uma ótima solução!
+
+Chegamos a encerrar a conversa já planejando nossos encontros futuros, vermos filmes clássicos juntos, sairmos para dançar ou experimentar novas atividades. Mas infelizmente, seus planos mudariam na semana seguinte.
+
+
+Impressões
+
+
+Na próxima semana, continuávamos nos encontrando nas nossas aulas do PD. Inevitavelmente nossa dança não mudou, sempre trocando carinhos, afagos e olhares. Além disso também continuamos trocando mensagens, sempre querendo saber mais um do outro.
+
+Porém dia a após dia, sentir você se distanciar de mim novamente. Repostas mais curtas, diretas e sem intenção de prolongar a conversa. A princípio achei que fosse apenas um dia ruim, rotina pesada, etc. Mas algo já estava acontecendo. 
+
+A situação escalou de uma forma, que em uma determinada conversa você simplesmente desapareceu. Algo que não havia acontecido até então. 
+
+Fiquei bem preocupado, teria eu dito algo que a magoou? Aconteceu alguma coisa com ela?  
+
+
+
+Escuridão
+
+
+Eu ainda não tinha me dado conta, mas estava entrando em um lugar que nunca havia entrado. Um lugar que me sentiria totalmente perdido. Uma repleta escuridão em que iria me perder em pensamentos, direção, dor, ansiedade e desconhecimento.
+
+No dia seguinte você ainda não havia me respondido. Resolvi te chamar novamente, para saber se estava tudo bem. Você foi curta e direta:
+
+"Tá sim"
+"Não se preocupe"
+
+Minha preocupação não amenizou. Tentei acessa-la, reforcei minha preocupação e desejo de retomarmos nossa conversa. Mas naquele dia, foi somente isso que tive de você. Naquele dia você estava com o corpo e mente em outro lugar.
+
+No dia seguinte você me retornou, me perguntado o motivo da conversa. Reforcei que estava preocupado e chateado pela forma que as coisas estão tomando. Lhe chamei para sairmos e conversarmos. Você ofereceu bastante resistência, mas enfim você veio e fomos ao Oldman. 
+
+O lugar que me teria me gerado a lembrança do primeiro momento em que me apaixonei por você, me geraria agora uma lembrança totalmente contrária. Naquela noite, eu estava desarmado e de coração totalmente aberto, propus sinceridade e transparência. Mas eu não teria isso de você.  
+
+Ouvi seus apontamentos e mudança na forma de pensar com relação a nós, não estava mais interessada mais na dinâmica que havíamos acordado. Tinha me colocado em em outra posição na sua vida, uma posição de denominou como "Uma caixa de amigos comuns, só que com ainda menos intimidade". 
+
+Não entendi a razão daquilo, e fiquei surpreso em te ouvir falar daquela forma. Você parecia uma pessoa totalmente fria e repleta de apatia...
+
+Durante a conversa relembrei do que havíamos combinado, de como pretendíamos manter o nosso contato e sentimento um pelo outro, e assim eu o estava fazendo. Era óbvio que alguma coisa estava acontecendo.  Resolvi te questionar, e apelei para que se mantivesse sincera comigo. Você me disse que nada havia acontecido... 
+
+Perguntei então, se algo havia mudado em casa e com relação ao seu ex marido, além das pendências como carro, apartamento, etc... Novamente a mesma resposta:
+"Nada mudou"
+
+Reforcei que minha intenção era encontrarmos alguma alternativa para que pudéssemos fazer dar certo. Se aquela dinâmica havíamos combinado não funcionou para você, poderíamos conversar e encontrar alguma alternativa. Então, pela primeira vez você pareceu indecisa com relação a nós. 
+
+Não quis lhe pressionar, sempre confiei e acreditei no que me disse, portanto ainda me sentia seguro, e lhe garanti que daria tempo para pensar a respeito. No dia seguinte, essa segurança me deixaria, e até o presente momento em que lhe escrevo, ainda não retornou...
+
+Combinamos de nos encontrar no To The Sea, finalmente eu conheceria sua mãe. Estava um pouco nervoso, mas tudo certo... Porém quando cheguei, a porta já estava trancada e segurança não me deixou entrar. Pensei comigo mesmo, que você e sua mãe já tinham entrado, então chamei o segurança novamente e disse que eu estava indo para um aniversário. Porém, não obtive sucesso.  Decidi voltar para casa.
+
+
+No dia seguinte, nos encontramos novamente na aula do PD. Estava ansioso para ve-la depois da nossa última conversa no domingo. Porém você estava muto mais distante que o normal, eu mal lhe via no salão. 
+
+De repente alguns amigos vieram me cumprimentar e perguntar se eu estava bem. Não dei atenção, até notar uma ênfase maior na pergunta "Você está bem?". O que está acontecendo? Pareço doente?
+
+Já no final do horário livre, te vi conversando com seu ex marido. Algo que eu não tinha visto acontecer ainda, a situação me incomodou. Se havia me garantido que o ignoraria no ambiente do PD (depois de tudo o que ele ja havia feito em seu apto, e depois invadido o nosso espaço), por agora conversava com ele em uma roda de amigos? 
+
+Pensei que talvez outra pessoa havia te inserido na conversa e você não teve opção além de ser educada. Tudo bem! 
+
+Vi vocês saírem do salão juntos... Mais uma visão que não me agradou.
+
+Te mandei mensagem para saber se já tinha ido embora, deixei o celular na mesa e voltei a dançar. Já estava tarde e o horário livre tinha ido além do tempo normal, resolvi buscar o meu celular na mesa em que eu o havia deixado, no fundo do salão. Quando peguei o celular, me sentei um pouco e vi sua mensagem de que já tinha ido embora.  Abri o instagram. 
+
+Naquela tarde, tinha começado a seguir o Jonathan no instagram, e por conta disso agora que abria o aplicativo pela primeira vez após segui-lo o instagram me apontava o seu conteúdo.
+
+Não consegui esboçar reação alguma... Em poucos segundos, tudo e nada fazia sentido ao mesmo tempo. 
+Você e seu ex marido, lado lado em ambos os ambientes, sorrindo... A primeira foto, do dia em que lhe procurei para saber se estava tudo bem, estava super preocupado com sua ausência e você me retornou apenas:
+
+"Tá sim"
+"Não se preocupe"
+
+A segunda, no dia em que conversamos no carro no Oldman. Onde abri meu coração para você, fui sincero, lhe disse o que sentia e o que queria para nós. E quando lhe perguntei se havia mudado algo entre você e seu ex marido, você olhou nos meus olhos e disse: 
+
+"Nada mudou".
+
+Até o momento, eu não sei colocar em palavras como eu estava me sentindo... E antes mesmo que pudesse pensar em fazer algo. A Thamony se sentou a mesa.
+
+"Por que o senhor não foi na comemoração ontem, você sabe que contamos com você?"
+
+Expliquei que tinha tido problemas, mas mudei abruptamente de assunto e perguntei a ela:
+
+"Seja sincera comigo. O que você sabe sobre Gabriela e eu?"
+
+Ela me contou que sabia apenas que tinham nos visto juntos no Remelexo, e depois do dia em que o André se matriculou, nos afastamos. Mas não sabia se esse era o motivo. Depois contou que a Maria e Jonathan contaram que o André foi com você no churrasco. E ao final me perguntou:
+
+"Aliás, você está bem?"
+
+Mais uma vez tudo e nada fazia sentido novamente... Eu não conseguia acreditar que você seria tão indiferente a como eu me sentiria com toda aquela situação. Depois de tudo o que havíamos conversado sobre como nós cuidamos de quem está do nosso lado, independentemente se eles correspondem a esse nosso cuidado. Não fazia sentido você ter agido daquela forma comigo...
+
+Cheguei em casa, tomei um banho, e fui direto para cama. Nem me lembrei de jantar, só queria que o dia seguinte chegasse logo. Mas eu precisava te perguntar:
+
+"Em algum momento você contaria para mim?" Acho que você nunca teria me contato se eu não tivesse visto a foto. E me dói escrever isso.
+
+
+Na escuridão mais profunda
+
+
+No seguinte, vi que você havia me respondido ainda de madrugada. Então, pelo teor da minha pergunta, tenho certeza de que você sabia sobre o que eu estava me referindo com a minha pergunta. Mas você preferiu que eu explicasse. 
+
+Fiquei atento, para saber com o que você se reagiria primeiro. Aos posts? A preocupação dos meus amigos comigo? A terem falado sobre você e seu ex marido na mesa? Meus sentimentos?
+
+Óbvio que torci para que fosse a última opção, ainda acreditava que havia alguma explicação para aquilo, talvez fosse tudo uma grande coincidência e você não sabia como me contar. Eu estava enganado.
+
+"No mesmo carro, sim"
+"Não vejo algo para contar"
+"Temos projetos juntos, é absurdo andar no carro com ele?"
+"E se fosse com outro cara?"
+"Quem lhe contou"
+"Ele estava em um role do PD, qual a novidade?"
+
+"No mesmo carro,  sim"? No mesmo ambiente, depois no mesmo restaurante, depois na mesma cadeira, lado a lado...
+
+"Não vejo algo para contar". Pensei comigo mesmo: Ainda que tivéssemos terminado e decidido romper todo o contato, eu jamais faria isso com você. Tivemos sempre muito cuidado em como seu ex marido, e minha ex companheira se sentiriam se nos vissem próximos. Por que eu não sou digno dessa preocupação?
+
+"Temos projetos juntos". E vocês foram discutir os projetos no churrasco, restaurante, com o pessoal do PD?
+
+"E se fosse com outro cara?" Voltamos a ideia do ciúmes e controle. 
+
+"Quem lhe contou" Quem está falando por aí, do que você está fazendo na frente de todos...
+
+"Ele estava em role do PD qual a novidade?" Depois dessa resposta grosseira, você me confessou que foi você que o convidou.
+
+"E você foi convidado!" Mesmo sabendo que eu poderia estar lá, você faria isso comigo...
+
+Nenhuma preocupação,  nenhum sinal de empatia, cuidado, responsabilidade afetiva, qualquer coisa. Apenas mais reforço de que daquilo não era da minha conta, e eu não tinha o direito e me sentir mal. Naquele momento eu deixei reconhecer aquela mulher responsável, amorosa e carinhosa e resolutiva, como você se apresentou para mim. E novamente me fiz uma pergunta, que havia feito quando nos conhecemos, porém agora em tom de frustração e tristeza:
+"Quem é essa mulher?"
+
+Resolvi atendeu seu telefone, talvez eu estivesse lendo as mensagens em um tom incorreto. Não sei se lembra, mas atendi sua ligação em um tom de tranquilidade, pois depois de tudo isso ainda queria lhe dar o benefício da dúvida. 
+
+Não foi diferente, durante a ligação você novamente demonstrou como principais preocupações apenas saber quem estava falando de você, e por que o interesse. Mesmo assim, ainda lhe dei mais uma oportunidade ao perguntar:
+
+"E aí, tem mais alguma que te preocupa com tudo isso lhe falei? Qualquer coisa?"
+
+Por favor, pergunte como estou me sentindo, se estou magoado, se estou ferido, se preciso que me escute, qualquer coisa!!!!!! 
+
+"Não, era somente isso mesmo, depois vou querer conversar com o pessoal"
+
+Uma tristeza passou a crescer dentro de mim. E ao contrário daquele sentimento de segurança que eu sentia em estar ao seu lado, que pouco havia me deixado, essa tristeza ainda me acompanha até esse presente momento.
+
+Seguimos a conversa e pedi para que me esclarecesse como estava a dinâmica com o seu ex marido. Então me você disse que não só conversavam sobre os projetos, mas haviam retomado o contato e conversado sobre o dia a dia, tarefas, etc... E então você me tirou o chão:
+
+"Eu me sinto balançada"
+"Você foi embora com ele?"
+Você demorou a me responder:
+"Fui"
+
+Encerrei a conversa e ligação.
+
+Por que me escondeu tudo isso? Por que mentiu para mim? Por que me manteve aqui sozinho te procurando enquanto estava indo embora? 
+
+Depois de tudo o que passamos, idas e vindas, conversas com amigos e familiares... Depois de todos os momentos juntos, trocas de ideias e carinhos, planos discutidos... 
+
+Nossos jantares maravilhosos cheio de conversas ricas e profundas, cada restaurante que fechamos por conta das nossas conversas e interesse infindo um do outro? Nossas danças repletas de carinho e desejo no PD, remelexo e no Giramundo com nossas fantasias!
+
+Nossos momentos na cama que nunca faltaram calor e desejo, nossos banhos deliciosos cheio de cuidado um com outro. Até mesmo naquela noite de calor sob a luz da lua...
+
+Nossos cuidados e preocupação mútuos um com o outro, e também com as pessoas ao nosso redor.
+
+Nossas conversas na cobertura quando me contou sobre sua infância, seus dons e sentidos! Enquanto eu lhe falava sobre a espiritualidade que envolve tudo isso. 
+
+Do dia em que eu te "sequestrei", e fomos ao ScapeRoom e quase saímos juntos jogando apenas em dois. Do nosso jantar naquela noite, que coincidentemente caiu em um dia especial para as hamburguerias e ganhamos vários brindes. Depois aquela noite deliciosa cheia de danças envolventes no Remelexo.
+
+Dos nossos jogos e planos de atividades que poderíamos fazer juntos, escalada, tiro, cama elástica, mais ScapeRooms, viagens...
+
+Das nossas conversas sobre trabalho, e como eu fiquei encantado de acompanhar sua apresentação no Hangout online antes do PD. Daquele dia que seus amigos queriam ajuda com alguns passos mas eu só conseguia dar atenção a você, te ensinando passos básicos de condutor.
+
+Daquele dia maravilhoso do seu Sarau, eu estava totalmente orgulhoso de você naquele dia, pela forma como você cantavam, confortava as meninas mais inexperientes, como você brilhava e se sobressaía... 
+
+Todos esses momentos e outros mais tão especiais, em que eu descrevi nessa carta, foram apagados... O seu valor reduzido. Momentos tão extraordinários que vivi intensamente do seu lado, mas que em poucas ações e dias, se perderam... Momentos que queimaram como brasa, se tornando fumaça e cinzas levados pelo vento.
+
+
+Agora
+
+Se você está lendo essa carta, significa que tivemos nossa conversa. Eu ainda não sei como ela acabou.... Se ficaremos juntos ou não. Sinto muito pelo caminho e tudo isso tomou.
+
+Enquanto a mim, ainda estou aqui, sozinho, procurando a saída desse lugar... Alguns dias já se passaram, não ando dormido ou me alimentado bem. Tudo parece diferente e estranho a mim. Ainda não sei descrever o que sinto em palavras.  Mas sinto que estou dando meus primeiros passos, não sei se estão na direção certa, mas sei que o que importa é continuar. 
+
+Ainda não estou enxergando a luz, mas sei que logo a verei. 
+
+
+
+
+
+
 
 
 
