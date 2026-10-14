@@ -237,7 +237,7 @@ Resolvemos repetir o jantar, e dessa vez fomos a uma pizzaria. Novamente me perg
 Até que finalmente tocamos no assunto de nossas experiências amorosas. Você iniciou, e conforme eu ouvia, pude começar a sentir novamente aquela sensação de sinergia. E conforme me contava, mais semelhante eram nossas experiências....
 
 Você iniciou me dizendo que estava segura de nós, pois seu relacionamento atual já havia acabado a alguns anos. Na verdade, o casamento já iniciou em uma fase terminal... 
-Exatamente como o meu, você estava a 3 anos em uma fase infeliz.
+Exatamente como o meu último relacionamento, você estava a 3 anos em uma fase infeliz.
 Não contava exatamente como era o casamento, mas contava como se sentia em casa situação. E em seguida eu lhe interrompia e compartilha pontos do meu relacionamento que eram exatamente iguais.
 
 Vivemos por 3 anos tentando fazer dar certo, na esperança de não jogar o tempo que investimos fora. CHECK
@@ -283,20 +283,23 @@ Fim da noite? Não, eu ainda precisava te dar aquele banho gostoso!
 
 Agora sim, fim da noite. E eu me apaixonei por você.
 
-Minha preocupação estava aumentando e eu não poderia mais continuar ficando com você da forma que estávamos. A cada momento que passávamos juntos, mais nos tornávamos pessoas que não somos. Você sempre foi mais que uma mulher que saí escondida de noite, e eu sempre mais que um home que sai com mais de uma mulher e ou um amante. 
+Ocorreram mais encontros, mas um em especial. Um dia, após nossa aula do PD queríamos passar um tempo juntos, e você sugeriu que fossemos a um Bar/Pizzaria/Karaokê. Chegando lá, escolhemos um lugar mais reservado e iniciamos mais uma de nossas conversas tão prazerosas. Até que você decidiu jogar sujo, e me pediu para escolher uma música para que cantasse. Lhe fiz um desafio: Cantar More Than Words, olhando pra mim!
+Mal eu sabia que esse jogo, você estava jogando em casa!
+Você não só impressionou a mim, mas a todos que estavam lá e já cantavam muito bem! Sua voz alcança um timbre ainda mais doce que o natural, serena, suave... Não pude tirar os olhos de você, e cantei para você de onde eu estava. Quando retornou a mesa, registrei o quão encantado eu estava, passamos o resto a noite abraçados, trocando carinhos. Eu bebia mais uma dose de você, e me apaixonava mais uma vez por você!
+
+Minha preocupação estava aumentando e eu não poderia mais continuar ficando com você da forma que estávamos. A cada momento que passávamos juntos, mais nos tornávamos pessoas que não somos. Você sempre foi mais que uma mulher que saí escondida de noite, e eu sempre mais que um homem que sai com mais de uma mulher e ou um amante. 
 
 
-Uma conversa Gentil
+Uma Conversa Gentil e Uma Decisão Difícil.
 
 
 Te chamei para tomarmos um café, e assim como eu, você também sentiu do que se tratava. Pela primeira vez lhe busquei na casa de sua mãe e fomos uma cafeteria em Mauá. Nos sentamos próximos a janela, mas depois escolhermos melhor nossas posições. Detemos ficar de costas para o ambiente, e você? CHECK
 
-Tentei adivinhas sua bebida, e errei. (Seria esse um sinal?)
+Tentei adivinhar sua bebida, e errei. (Seria esse um sinal?)
 
 Tudo estava muito claro na minha cabeça, você é uma mulher maravilhosa, simpática, divertida, cuidadosa, preocupada, dedicada. Enquanto eu ficasse contigo daquele jeito, eu estava corrompendo tudo isso que sempre via em você. Como eu poderia fazer isso? Eu não me apaixonei por você naquele dia, como nas noites passadas. Naquele momento, eu já estava apaixonado por você de forma constante. Estar com você fez eu me lembrar de muitas características minhas que deixei para trás, e você me reconectou a elas. Olhar nos seus olhos, foi como olhar um retrato meu antigo. 
 
 E isso fazia com o que eu não conseguisse desviar o olhar de você. Era a última coisa que eu desejava, mas ali nos terminamos pela segunda vez...
-
 
 Mantivemos contato, pois você sempre deixou claro que a sua situação se resolveria mais cedo ou mais tarde. E eu também tinha a minha situação pare resolver.
 
@@ -338,7 +341,7 @@ Fomos a um scaperoom. A experiência foi divertida, o lance do caixão foi muuui
 
 A noite fomos jantar no Big Kahunna, a hamburgueria temática do Tarantino. E estava rolando um evento Bacon Day, com um menu especial. Conhecemos o dono na casa e ganhamos vários brindes. Ali, pela primeira vez passei a perguntar sobre sua família e filha. Como você gosta de educa-la? Como é a personalidade dela? É uma criança extrovertida ou mais quieta? 
 
-E nenhuma surpresa. Ela é uma cópia de você! Parece ser uma criança doce, inteligente, de mente precoce e cheia de cuidados coma forma com que se expressa. Fiquei curioso para saber mais, mas novamente, a noite já se mostrava curta demais para nós. Decidimos sair para dançar.
+E nenhuma surpresa. Ela é uma cópia de você! Parece ser uma criança doce, inteligente, de mente precoce e cheia de cuidados com a forma com que se expressa. Fiquei curioso para saber mais, mas novamente, a noite já se mostrava curta demais para nós. Decidimos sair para dançar.
 
 Fomos ao Remelexo, e encontramos alguns amigos. Naquela noite, nosso relacionamento sofreria as primeiras interferências externas, e para a minha infelicidade, não saberíamos como lidar com isso.
 
@@ -588,13 +591,63 @@ Até que chegamos no foco principal. Seu ex marido teria entrado novamente no ap
 
 Fiquei bem descontente com aquela atitude dele, se já estivéssemos juntos formalmente a um tempo, e aquilo tivesse acontecido, ele estaria mexendo diretamente comigo. Mas eu não estava nessa posição, não tive escolha a não ser ouvir. Estranhei a forma com que me contou, mostrou indignação, mas não ouve uma atitude para para-lo. Apenas mais conversas... Finalmente veio a informação de quele iria iniciar as aulas de dança, e faria isso por si mesmo. Ouvi tudo que tinha me dizer até o final, até que eu pudesse ponderar. 
 
-Toda a situação parecia fantasiosa demais, algo tirado de uma novela. Como ele poderia invadido tanto seu espaço daquela forma? Invadido o seu apartamento, invadindo seu computador, lido sua intimidade e conversas. E ter saído de lá prometendo que faria isso mais uma vez, indo para escola de dança... 
+Toda a situação parecia fantasiosa demais, algo tirado de uma novela. Como ele poderia ter invadido tanto seu espaço daquela forma? Invadido o seu apartamento, invadindo seu computador, lido sua intimidade e conversas. E ter saído de lá prometendo que faria isso mais uma vez, indo para escola de dança... Tive a impressão de que você aceitara aquela situação, sem se impor como deveria. Mas também pensei que poderia ter te assustado.
 
 Duvidei dessa "promessa" dele, estava claro que ele queria você próxima a ele, e distante de mim. Comentei isso com você naquela noite, como uma forma de tentar nos proteger e nos prepararmos... Eu queria você do meu lado, seu lugar era ao meu lado! Essa estratégia dele não tinha a menor chance de funcionar. Mas aquela seria a nossa última noite juntos...
 
 Tínhamos acordado cedo para irmos ao exame naquele dia, e ao final dessa conversa o relógio ja batia 3am. Descemos para o quarto, tomamos um banho e deitamos juntos. Mas como disse anteriormente, sempre haverá energia dentro de mim para você! Principalmente depois de um banho quente. 
 
-Nos deitamos 
+Nos deitamos, e logo estávamos sentindo nossos toques, beijos, e corpos. Essa noite não foi mais fria que as anteriores, porém havia algo diferente. Acho que ambos sentimos isso, curtimos aquela noite de uma forma diferente, havia um certo silêncio em nossas mentes. 
+Quando fomos dormir, te puxei para mim te envolvi em meus braços, e eu só queria simplesmente estar com você, sentir sua companhia, sua presença... Eu estava tomando minhas últimas doses de você... 
+
+Pela manhã, pela primeira vez pudemos curtir um ao outro com mais tempo. Que delícia poder acordar do seu lado, olhar seu rosto tranquilo, acaricia-lo, passar a ponta dos dedos pelo rosto, cabelos, pescoço. Aproximar o meu rosto do seu, sentir o seu cheiro e ouvir você suspirar ainda de olhos fechados... Aquela sensação de paz inigualável.
+
+Quando mais uma vez a cama esquentou, você se levantou e foi ao banheiro. Malandrinha escovou os dentes e voltou pra cama, e eu com bafo matinal rsrs Você não me deu tempo de reação. Logo está em cima de mim, com aquele olhar calma de uma bruxa que acabou de capturar uma vitima em um feitiço que não há escapatória. 
+
+Como eu disse, tudo estava diferente. Quando nos demos conta, pela primeira vez estávamos juntos sem proteção alguma. Ainda assim, continuamos nos envolvendo apenas aproveitando ao máximo um do outro, nossas últimas trocas de olhares intensos na cama, última sintonia de nossos corações batendo acelerados em sintonia. Quando fecho os olhos, posso enxergar você comigo na cama naquela manhã, como um foto nítida. Com o corpo nu, leve, despreocupado, entregue! Nunca vou me esquecer da nossa última noite. 
+
+Mais tarde, fui leva-la até a casa de sua mãe. Quando estávamos próximos a casa dela, tive uma sensação ruim, e achei melhor reforçar o que eu enxergava sobre a presença de seu ex marido no PD. Confirmei que a estratégia dele seria nos afastar e ao mesmo tempo se aproximar de você, e caso ele de fato agisse assim, recomendei que entrasse em contato com as pais dele, pois essa era uma atitude perigosa.
+
+
+Rompimento
+
+
+No dia seguinte, nossa primeira aula no PD pós exame. E para a minha surpresa, o seu ex marido apareceu. Achei um absurdo, constrangedor e uma falta de respeito imensa com você. Quanto a mim, não me senti ameaçado, eu sabia que aquela atitude era um tiro no pé. Já havíamos conversado sobre, e sabíamos que o plano seria ignora-lo totalmente. 
+
+Durante o trote dancei com você normalmente, e quando trocavam os pares, lhe dava um leve aperto na cintura como demonstração de que estava presente. Em certo momento você respondeu a esse aperto com um: "gostoso!". Sempre adorei ser seu gostoso!
+
+O trote acabou, e eu fui até o palco pegar minhas coisas e descansar. Alguns amigos vieram conversar, e quando me dei conta você já havia ido embora. Mais tarde você entrou em contato comigo. E quando conversamos, me deu a notícia que tinha decidido ir embora com ele...
+
+Como assim? Como ele conseguiu atingir o objetivo de voltar com você depois de tudo o que havíamos conversado? Várias pessoas tinham nos vistos trocando carinhos em nossas danças, e agora essas pessoas viam vocês descerem as escadas juntos... Como ele pode invadir seu apartamento, mexer em suas coisas pessoais, não deixar o carro para você ir até a escola (atividade essa que você sempre usava o carro), fazendo com que tivesse que ir de Uber uma distancia longa sem qualquer explicação. O que aconteceu durante aqueles minutos finais, para ele conseguir o que queria? Precisávamos conversar.
+
+Nossa conversa foi confusa, enquanto eu estava frustrado e confuso e você estava reativa. Eu querendo entender a todo custo o que tinha acontecido, por que você havia decidido entrar naquele carro? Enquanto isso, você tentava se proteger de mensagens que pareciam ataques. Alegando um possível ciúmes. 
+
+Tive uma noite péssima, com pouquíssimas horas de sono, entre duas e 3 horas. Ela se revelaria ser a primeira de muitas. 
+Durante essa noite revisitei as conversas, li e as reli. Nada fazia sentido. Por que se expôs daquela maneira, depois de sempre deixar claro que se importava com o que diriam sobre você? Depois de tudo o que havíamos passado, términos e reencontros? Desabafo e orientações de amigos e nossas mães. Os nossos esforços para continuarmos nos vendo, pedindo apoio de sua mãe com a Helô, e eu com minha mãe em casa para que pudéssemos ficar juntos aqui! Ir embora com ele, era o objetivo dele e sabíamos disso, por que aceitar e encoraja-lo a manter essas atitudes?
+Por que passou a me ver como alguém que está apenas com ciúmes, era rígido e queria controle? Sendo que eu estava bem com a presença dele, já havíamos conversado sobre isso...
+
+Algum motivo fez você agir de forma contrária a tudo o que já havíamos conversado. E eu não conseguia te acessar. Senti que todo os esforços que fizemos para ficar juntos do jeito certo, foram em vão. O motivo? Totalmente inacessível a mim. 
+
+Totalmente frustrado com o que havia acontecido, e também pelos supostos motivos que havia recebido, cheguei a conclusão que deveríamos terminar. 
+
+
+
+Esclarecimentos
+
+
+No dia seguinte, checamos a viabilidade de conversarmos pessoalmente, mas isso não foi possível, então seguimos por mensagens. 
+
+Eu estava triste, frustrado... Como aquilo pode ter acontecido? Por que não consigo te acessar? A mulher que conheço não mudaria de ideia tão rápido, e nem entraria na defensiva alegando que eu tinha ciúmes... 
+
+Iniciamos uma conversa. 
+
+Logo você trouxe novos pontos, como preocupação da possiblidade de eu querer encerrar os seus projetos com seu ex marido. Insegurança com o meu término com a Naura, e a discordância com a minha ideia de que você estava o encorajando a seguir com essas atitudes.
+
+
+
+
+
+
 
 
 
