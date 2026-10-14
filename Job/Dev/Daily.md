@@ -9,8 +9,9 @@ INSERT INTO admin_users_roles_links (user_id, role_id) SELECT u.id, r.id FROM ad
 
 # A Fazer:
 
-Colher Evidencias das FAQs em prod
-Planjear API PIX
+Atualizar o brag documment e apontar:
+Alta disponibilidades (Casos de remoção do "Banco Digital" Hora extra e presença em dia de folga)
+
 
 Pagespeed da página Bolix
 - Fotos do hero
@@ -25,11 +26,10 @@ glpat-ypH_1Aquv1L8slyPnZE7Om86MQp1OmI2CA.01.0y053moyc
 
 # Daily:
 
-Deploy no portal-frontend da última fase da atividade de FAQ's
-Notifiquei o Diego, e me deixei a disposição para qualquer dúvida dele a respeito do novo fluxo
+Colhi evidências e encerrei a GMUD do MS-Marketing
+Fiz deploy do Portal Frontend - SEO Bolix
+Iniciei a revisão da tarefa do arthur de Boleto Automático
 
-Montei um planejamento do Rework da página de API Pix do Portal
-E iniciei atuação nela.
 
 
 # Script de planejamento:

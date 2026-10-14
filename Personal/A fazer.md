@@ -24,6 +24,8 @@ Concluir curso de Leilao
 
 verificar possibilidade de cortar a mesa da cobertura
 
+Com que a Helo ficou no dia no 
+
 
 Gabriela
 
