@@ -29,7 +29,7 @@ Com que a Helo ficou no dia no
 
 Gabriela
 
-Eu vou te contar a nossa história. 
+Eu vou te contar a minha história. 
 
 Eu nunca acreditei em alma gêmea, mas sempre acreditei conexão, desejo, afinidade, sinergia e compreensão entre duas pessoas. 
 
@@ -838,27 +838,6 @@ Ainda não estou enxergando a luz, mas sei que logo a verei.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Estou escrevendo essa carta do final para o início pois não sei se terei tempo hábil para termina-la. Logo nós teremos uma conversa que poderá ser a definição de tudo, e sinto que não será conforme os meus desejos.  
-
-Portanto, se a conversa for de fato para esse lado. Acredito que não terei força para concluir essa carta, quando voltar para casa. Por isso escrevo iniciando pela conclusão:
 
 
 
