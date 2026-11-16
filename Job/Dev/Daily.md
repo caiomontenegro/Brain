@@ -1,17 +1,9 @@
 
-# Personal
-
-
-
-
-docker exec -it mysql-8.0.32 mysql -u root -p12345678 strapi
-INSERT INTO admin_users_roles_links (user_id, role_id) SELECT u.id, r.id FROM admin_users u, admin_roles r WHERE u.email = 'caio.montenegro@sejaefi.com.br' AND r.code = 'strapi-super-admin';
 
 # A Fazer:
 
 Atualizar o brag documment e apontar:
 Alta disponibilidades (Casos de remoção do "Banco Digital" Hora extra e presença em dia de folga)
-
 
 Pagespeed da página Bolix
 - Fotos do hero
@@ -26,9 +18,14 @@ glpat-ypH_1Aquv1L8slyPnZE7Om86MQp1OmI2CA.01.0y053moyc
 
 # Daily:
 
-Colhi evidências e encerrei a GMUD do MS-Marketing
-Fiz deploy do Portal Frontend - SEO Bolix
-Iniciei a revisão da tarefa do arthur de Boleto Automático
+Colhi as evidencias de teste da tarefa de atualização do Swiper
+Revalidei a tarefa do Welker do DDA
+Finalizei a tarefa atualização do CNPJ para Alfanumérico no Portal Frontend, mandei pra revisão e fiz deploy para bugbash também para agilizar.
+Agora iniciei essa atualização do CNPJ Alfanumerico no portal-backend.
+
+
+resolver o MR - https://gitlab.interno.testegerencianet.com.br/marketing/portal-frontend/-/merge_requests/1187
+
 
 
 

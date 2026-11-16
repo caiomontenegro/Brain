@@ -1,7 +1,7 @@
 
 # Gabriela
 
-Eu vou te contar a minha história.
+**A Vida antes de você**
 
 Eu nunca acreditei em alma gêmea, mas sempre acreditei em conexão, desejo, afinidade, sinergia e compreensão entre duas pessoas.
 
@@ -11,7 +11,7 @@ Com o tempo, nossas diferenças começaram a surgir e, como qualquer casal, pass
 
 Porém, também é verdade que, se não tomarmos cuidado, passamos a abdicar de nós mesmos. Abrimos mão da forma como enxergamos o mundo, do que queremos para nós, dos nossos valores, das nossas exigências, da nossa felicidade e, por fim, do nosso tempo.
 
-Quando estávamos prestes a completar sete anos juntos, notei que vivia uma vida que nunca desejei, cheia de momentos desgostosos, frustrações e decepções. Ao longo dos anos, eu havia aberto mão do que sonhava para a minha vida e somente naquele momento passei a perceber isso.
+Quando estávamos prestes a completar sete anos juntos, notei que vivia uma vida que nunca desejei, cheia de momentos desgostosos, frustrações e decepções. Ao longo dos anos, eu havia aberto mão do que sonhava para a minha vida e somente naquele momento passei a perceer isso.
 
 Como é comum um relacionamento cair na rotina e a chama diminuir, resolvi que a mudança necessária ainda era possível e que bastava comunicação para nos alinharmos novamente. Sempre fui alguém que valoriza muito o diálogo e acreditei que ele era o caminho para encontrar soluções para os meus problemas. Portanto, isso não seria diferente no meu relacionamento.
 
@@ -35,25 +35,31 @@ Mesmo tendo algumas crenças relacionadas à espiritualidade, segundo as quais s
 
 Finalmente, em um momento totalmente inesperado e inoportuno, coloquei as cartas na mesa e encerrei aquela fase de nossas vidas.
 
+**Atitudes**
+
 Por ser grato pelo tempo que passamos juntos, eu devia liberdade não só a mim, mas a ela também. Toda a conversa aconteceu com muito respeito, carinho e, justamente, gratidão. Eu não poderia negar a importância daquela pessoa na minha vida e simplesmente apagar da memória tudo o que havíamos vivido juntos.
 
 E assim foi. Nós nos mantivemos amigos e, apesar de continuarmos bastante acessíveis um ao outro, nosso contato diminuiu consideravelmente ao longo do tempo. Isso demonstrou que havíamos tomado a decisão acertada ao virar a página.
 
 Considerei aquela a decisão mais difícil da minha vida. Foram nove anos e meio de muitas experiências, aprendizados e vivências compartilhadas. Mas encarei tudo como uma fase de muito aprendizado. A conversa foi difícil e dolorosa, pois estávamos nos despedindo de uma longa história.
 
-Mas, quando fiquei sozinho, percebi que também havia me despedido dos meus momentos de solidão.
+**Um Novo Mundo**
+
+Quando fiquei sozinho, percebi que também havia me despedido dos meus momentos de solidão.
 
 A epifania foi a seguinte: eu pensava demais porque meu mundo era pequeno demais. Via tudo através de uma janela pequena e, quando aquilo que desejamos parece pequeno, os obstáculos se tornam gigantes. Mas agora, depois de finalmente abrir a porta, eu podia ver tudo! Poderia agarrar e viver todas as oportunidades que antes via passar pela janela.
 
 Foi uma sensação incrível de reconexão comigo mesmo, de descobertas, vigor e esperança! Eu nunca havia visto tanta cor em tudo!
 
-Concluí meus estudos, iniciei uma nova carreira, conheci novas pessoas, comecei a cuidar do meu corpo e da minha mente e passei, finalmente, a viver a vida que queria, dando ao meu tempo de vida o valor que ele merecia!
+Concluí meus estudos, iniciei uma nova carreira, conheci novas pessoas, comecei a cuidar do meu corpo e da minha mente. Finalmente passei a viver a vida que queria, dando ao meu tempo de vida o valor que ele merecia!
 
 Uma das atividades que sempre quis aprender era dançar. Logo, não pensei duas vezes antes de me arriscar a conhecer uma escola de dança. Adorei a experiência e, em pouco tempo, essa se tornou uma das minhas principais atividades.
 
+**Novas Pessoas**
+
 Passado algum tempo, conheci alguém na dança, uma pessoa que já havia sido casada e abandonada. Rapidamente nos envolvemos, porém a última coisa que eu desejava era alguém que pudesse me limitar novamente. Ela compartilhava da mesma ideia, pois era uma pessoa aventureira e sedenta por novas experiências.
 
-Com o tempo, nos aproximamos, e foi inevitável que ficássemos juntos. Porém, estávamos determinados a não assumir um compromisso. Deixamos bem claro o espaço que daríamos um ao outro: não ficaríamos com outras pessoas, mas também não imporíamos responsabilidades um ao outro.
+Com o tempo, nos aproximamos, e foi inevitável que ficássemos juntos. Porém, estávamos determinados a não assumir um compromisso. Deixamos bem claro o espaço que daríamos um ao outro: não ficaríamos com outras pessoas, mas também não iríamos impor responsabilidades um ao outro.
 
 E seguimos muito bem dessa forma! Viajamos, curtimos, tivemos experiências juntos e vivemos! Porém, com o tempo, os desafios da vida chegaram. Minha mãe sofreu um derrame.
 
@@ -65,9 +71,11 @@ Devido a essa dinâmica cheia de restrições, nunca conversamos sobre os planos
 
 Nunca nos permitimos sonhar juntos. Portanto, eu ainda pensava: "Com certeza, neste mundo existe alguém com quem terei conexão, desejo, afinidade, sinergia e compreensão. E, quando eu encontrar essa pessoa, estarei aqui... para ela!"
 
+**Eu Encontro Você**
+
 Após estabelecer uma rotina bem definida, resolvi voltar à escola de dança. Dois meses depois, durante a roda de aquecimento, você veio até mim. Pedi sua mão, e você sorriu enquanto a entregava. Abracei você, e começamos a dançar.
 
-Senti que estava começando algo, e minha única preocupação foi manter você confortável. Quando olhou para mim, você perguntou:
+Senti que estava começando a pouco tempo, e minha única preocupação foi manter você confortável. Quando olhou para mim, você perguntou:
 
 — Nossa, você está sumido!
 
@@ -79,7 +87,7 @@ Diante de todas essas possibilidades, tentei responder educadamente que não me 
 
 Como era uma roda de aquecimento, nossa interação durou bem pouco. Quando você foi para o próximo condutor, todos aqueles pensamentos permaneceram comigo.
 
-"Afinal de contas, quem é você?"
+"Afinal de contas, quem é ela?"
 
 Minha volta às aulas foi bem lenta. Eu ia apenas às segundas-feiras. E, quando avistava você, o mesmo pensamento sempre me visitava:
 
@@ -91,11 +99,14 @@ Você me transmitia uma energia gostosa, a de alguém que finalmente está desca
 
 Então, ali, naquelas primeiras danças, sem saber ao certo quem você era, experimentei, pela primeira vez, uma dose de você e da sua energia.
 
+**O Universo nos Apresenta**
+
 Passamos a nos seguir no Instagram. Eu nunca fui de ficar stalkeando ninguém, então vi apenas suas seis primeiras fotos. Alguns dias depois, você publicou uma foto no hospital. Mandei uma mensagem desejando melhoras, e você agradeceu.
 
 Logo veio o exame da escola. Eu não fui, pois meu ciclo era de seis meses e eu não poderia realizar o exame. Além disso, meus colegas já haviam feito o exame anterior e, portanto, não estavam aptos a participar daquele.
 
-Não me lembro ao certo do motivo, mas a aula seguinte ao exame aconteceria em um horário diferente. Como sou atento aos grupos de WhatsApp, acabei indo no meu horário habitual. Quando cheguei, todas as aulas já haviam terminado, e o trote estava prestes a começar.
+Não me lembro ao certo do motivo, mas a aula seguinte ao exame aconteceria em um horário diferente. Como sou atento aos grupos de WhatsApp, acabei indo no meu horário habitual ><
+Quando cheguei, todas as aulas já haviam terminado, e o trote estava prestes a começar.
 
 Pensei:
 
@@ -109,9 +120,9 @@ A dinâmica pareceu bem interessante e divertida. Sentei-me no chão e aguardei 
 
 Do outro lado do salão, você estava descontraída e aparentemente tranquila, conversando com suas amigas, mas atenta aos pares que dançavam.
 
-E então, justamente enquanto eu me distraía olhando para você, sortearam meu número e me chamaram ao centro do salão. Fiquei supernervoso, mas procurei apenas me divertir e curtir aquele momento.
+E então, justamente enquanto eu me distraía olhando para você, sortearam meu número e me chamaram ao centro do salão. Fiquei super nervoso, mas procurei apenas me divertir e curtir aquele momento.
 
-— Hmmm... E agora, com quem será que vou cair para dan...
+— Hmmm... E agora, com quem será que vou cair comig...
 
 — GABRIELA!
 
@@ -121,17 +132,17 @@ Pensei:
 
 "O quê? Uau! Finalmente dei sorte nessas gincanas... Normalmente, eu só pago mico! ><"
 
-Você se levantou e caminhou em minha direção. Usava uma calça branca, de tecido fino, leve e confortável para dançar, agradável ao toque, com um corte na barra que deixava suas panturrilhas aparentes. Estava maquiada, com os cabelos soltos e bem arrumados. Nunca fui muito fã de mulheres de cabelos longos, mas esse corte tinha personalidade.
+Você se levantou e caminhou em minha direção. Usava uma calça branca, de tecido fino, leve, confortável para dançar, agradável ao toque, com um corte na barra que deixava suas panturrilhas aparentes. Estava maquiada, com os cabelos soltos e bem arrumados. Nunca fui muito fã de mulheres de cabelos longos, mas esse corte tinha personalidade.
 
 "Uma mulher de personalidade? Perigosa demais para mim!"
 
-Quando se aproximou o suficiente, você sorriu. Aquele sorriso me deu entusiasmo para cumprimentá-la com as duas mãos. Segurei sua mão direita e me aproximei delicadamente. Você se ajeitou em meu abraço.
+Quando se aproximou o suficiente, você sorriu. Aquele sorriso me deu entusiasmo para cumprimentá-la com as duas mãos, um gesto meu que dizia "Vamos arrasar juntos!". Segurei sua mão direita e me aproximei delicadamente. Você se ajeitou em meu abraço.
 
-O salão ficou em silêncio...
+Silêncio no salão...
 
 A música começou.
 
-Uma música lenta! O que era aquilo? Destino? Universo? Deus? Sorte?
+Uma música lenta! O que era aquilo? Destino? Universo? Deus? Sorte? 2
 
 Balancei o corpo lentamente, e você me acompanhou. Afastei seu corpo do meu, e você confiou em mim para sustentá-la enquanto eu observava suas feições tranquilas e seus olhos fechados.
 
@@ -139,11 +150,11 @@ Balancei o corpo lentamente, e você me acompanhou. Afastei seu corpo do meu, e 
 
 O salão sentiu nossa conexão, e os primeiros gritos começaram a surgir.
 
-Trouxe seu tronco de volta para mim, posicionei minha perna entre as suas e a movimentei. Você acompanhou o movimento, encaixou o quadril e o movimentou no ritmo da música, com graça.
+Trouxe seu tronco de volta para mim, posicionei minha perna entre as suas e a movimentei. Você acompanhou o movimento, encaixou o quadril e o movimentou no ritmo da música com graça.
 
 Nos deslocamos lentamente. Em um movimento de troca de posição, abri espaço e soltei você. E você não poderia ter respondido melhor: um giro independente! Todos gritaram!
 
-E então ele aconteceu pela primeira vez. Foi através de um passo simples, mas do melhor passo possível!
+E então ele aconteceu pela primeira vez. Através de um passo simples, porém de nome apropriado:
 
 **O FEITIÇO!**
 
@@ -151,11 +162,13 @@ Você sorriu e segurou minha mão com intenção! E selamos o feitiço! Ali era 
 
 O passo ficou mais complexo. Você havia acabado de chegar à azul-bebê, e eu a conduzi em um giro de sete pisadas em linha. Você o executou perfeitamente! Não tinha jeito: eu precisava voltar para o nosso abraço fazendo um paulista de condutor. Não tinha como errarmos! Estávamos ligados, conectados! O universo, a sorte, Deus e o destino estavam todos do nosso lado.
 
-Você voltou para mim, a música diminuiu o ritmo, e você elevou a perna pela minha em um passé.
+Você voltou para mim, a música diminuiu o ritmo, e você elevou sua perna sobre a minha em um passé.
 
 O salão inflamou!
 
-Por um minuto, eu era seu, e você era minha.
+Por um minuto, eu era seu, e você era minha!
+
+**Aproximação** 
 
 Ao chegar em casa, resolvi mandar uma mensagem. Lembrei-me de que a última havia sido para desejar melhoras, então resolvi perguntar se estava tudo bem.
 
@@ -171,11 +184,12 @@ Você me mandou um áudio contando como havia sido e me disse que tinha um Corre
 
 Foi a primeira vez que prestei atenção à sua voz e à entonação que usou naquela última frase. Você já havia eliminado qualquer dúvida que eu pudesse ter sobre seu interesse em se aproximar de mim.
 
-Mas, naquele momento, fui buscar saber mais sobre você. E, no seu Instagram, vi que era casada.
 
 **BANHO DE ÁGUA GELADA!**
 
-Respondi com educação, mas não consegui disfarçar muito bem que também estava interessado em saber mais sobre você.
+Fui buscar saber mais sobre você. E, no seu Instagram, vi que era casada.
+
+Respondi seu áudio com educação, mas não consegui disfarçar muito bem que também estava interessado em saber mais sobre você.
 
 Já haviam se passado alguns dias desde a nossa dança, e eu ainda não sabia, mas a abstinência começava a aparecer pela primeira vez. Eu precisava de outra dose de você.
 
@@ -199,7 +213,9 @@ Quando finalmente fomos dormir, pedi que você parasse de me provocar. E você r
 
 De fato, não demorou muito para fazermos isso pessoalmente...
 
-Logo na primeira vez que nos vimos no PD, fomos dançar juntos. E nossas danças mudaram: a temperatura já estava muito mais elevada. O nosso toque já demonstrava o que queríamos fazer e o quanto desejávamos um ao outro depois da nossa última conversa, cheia de provocações. E seguimos assim durante toda a noite, insinuando-nos um para o outro, trocando olhares e toques e nos provocando!
+**Instinto e entrega**
+
+Logo na primeira vez que nos vimos no PD, fomos dançar juntos. E nossas danças mudaram: a temperatura já estava muito mais elevada. O nosso toque já demonstrava o que queríamos fazer e o quanto desejávamos um ao outro depois da nossa última conversa, cheia de provocações. E seguimos assim durante toda a noite, insinuando-nos um para o outro, trocando olhares, toques e nos provocando!
 
 Não havia outra saída: saímos juntos do PD, entramos no meu carro e fomos para um local próximo à sua casa. Eu não pensava em mais nada; só queria rasgar sua roupa ali mesmo e te devorar! Lembro-me de que você me pediu calma em certo momento... Que ousadia! Depois de ter me provocado tanto?
 
@@ -207,19 +223,23 @@ Naquela noite, depois de tirar suas roupas, deitei você na cama. Ajoelhei-me no
 
 Ouvir você suspirar enquanto gemia baixinho... O meu som preferido!
 
-Deitei-me e me debrucei sobre você. Envolvi seu pescoço com meus braços e, finalmente, pude sentir a sensação de estar dentro de você! Quando me aproximei do lado esquerdo do seu pescoço, você cravou as unhas nas minhas costas! Foi difícil me controlar enquanto sentia seu corpo se movimentar sob o meu!
+Deitei e me debrucei sobre você. Envolvi seu pescoço com meus braços e, finalmente, pude sentir a sensação de estar dentro de você! Quando me aproximei do lado esquerdo do seu pescoço, você cravou as unhas nas minhas costas! Foi difícil me controlar enquanto sentia seu corpo se movimentar sob o meu!
 
-Então surgiu o nosso primeiro _check_: você também gosta de assumir o controle! Você se levantou e me puxou para que eu me deitasse de barriga para cima. Subiu sobre mim, olhou-me com aqueles olhos de súcubo e desceu o quadril sobre o meu... É, você tinha prometido, e agora estava cumprindo!
+Então surgiu o nosso primeiro _CHECK_: você também gosta de assumir o controle! 
+
+Você se levantou e me puxou para que eu me deitasse de barriga para cima. Subiu sobre mim, olhou-me com aqueles olhos de súcubo e desceu o quadril sobre o meu... É, você tinha prometido, e agora estava cumprindo! Fez o que disse que faria, e eu me perdia em prazer enquanto você mexia sua cintura, pesando seu corpo contra o meu, deslizando sobre mim!
 
 E então você se virou de costas e ficou de quatro... Você era o meu banquete! E, a cada vez que eu a puxava pela cintura para mais perto de mim, mais prazer sentia ao ver você segurando o colchão com força, a ponto de quase rasgar os lençóis com as unhas.
 
 Nossa sintonia e nossa energia eram tamanhas que, naquela noite, já havíamos descoberto os pontos fracos um do outro!
 
-Então você finalmente desabou sobre o colchão! Aproximei-me lentamente e beijei seus ombros enquanto você respirava fundo. Havíamos saciado a vontade que sentíamos um do outro, mas ainda não sabíamos que aquilo era apenas o começo de uma fome e de uma sede insaciáveis.
+Então você finalmente desabou sobre o colchão! Aproximei-me lentamente e beijei seus ombros enquanto você respirava fundo. Havíamos saciado a vontade que sentíamos um do outro, mas ainda não sabíamos que aquilo era apenas o começo de uma fome e de uma sede sem fim.
 
 Você se lembrou de que o tempo era curto e que precisávamos ir. Chamei você para tomarmos banho e, é óbvio, eu precisava aproveitar mais um pouco a sua companhia! Ajustei a temperatura do chuveiro, coloquei você de costas para mim e fiz questão de lhe dar um banho. Assim, pude conhecer melhor cada curva do seu corpo.
 
 Hora de ir!
+
+**Queríamos mais!**
 
 Nos dias que se seguiram, nosso desejo aumentou. Mas e agora? Como faríamos para nos vermos? Seria nos dias das aulas? Aos finais de semana?
 
@@ -239,11 +259,15 @@ Não demorou muito para repetirmos o feito!
 
 Conclusão: banco de trás, você nua em cima de mim e um brinco perdido!
 
-Porém, o lance era físico. Conversávamos pouco devido a toda a situação envolvendo o seu casamento. Até isso falou mais alto. Em uma conversa breve, comentei sobre o meu desconforto com aquela situação e sugeri que parássemos de ficar. Sentia que você era uma mulher diferente e, por isso, propus que mantivéssemos uma amizade. Você concordou.
+**Não Queremos Somente Isso!**
+
+O lance era físico. Conversávamos pouco devido a toda a situação envolvendo o seu casamento. Até que isso falou mais alto. Em uma conversa breve, comentei sobre o meu desconforto com aquela situação e sugeri que parássemos de ficar. Sentia que você era uma mulher diferente e, por isso, propus que mantivéssemos uma amizade. Você concordou.
+
+**Você Me mostra Quem Realmente É** 
 
 Após trocarmos algumas mensagens, recebi o seu convite para jantar. Apenas um jantar tranquilo, para descansar depois de um dia estressante. Sem problemas! O que será que ela gosta de comer? Então você me convidou para conhecer sua hamburgueria favorita. _CHECK!_
 
-Você veio até minha casa e deixou seu carro na minha vaga. Depois, fomos juntos. Eu não sabia, mas, naquela noite, estava dirigindo rumo à minha própria e possível perdição...
+Você veio até minha casa e deixou seu carro na minha vaga. Depois, fomos juntos. Eu não sabia, mas, naquela noite, estava dirigindo rumo à minha própria perdição...
 
 Quando chegamos, o lugar me pareceu bem diferente e descontraído. Gostei do estilo rústico e antigo. Você me apresentou o cardápio e, enquanto escolhíamos, pediu que eu adivinhasse o que iria beber.
 
@@ -251,7 +275,7 @@ Ali começavam nossas brincadeiras mentais de feiticeiro e bruxa. Escolhi a bebi
 
 Pedimos nossos lanches e começamos a conversar naquela mesa logo atrás da porta de entrada, no OldMan! Tudo começou a mudar para mim... Coincidências, sinergias, desejos parecidos, assuntos, histórias! Era como conversar com um espelho...
 
-“Afinal de contas, quem é essa mulher com quem eu estava dormindo?”
+“Afinal de contas, quem é essa mulher com quem eu estava dormindo noites atrás?”
 
 Conversamos sobre nossos trabalhos e sobre os empreendimentos que já havíamos realizado. _CHECK!_
 
@@ -261,9 +285,13 @@ Conversamos sobre termos estudado no SENAI. _CHECK!_
 
 Conversamos sobre nossos gostos culinários. _CHECK!_
 
+Conversamos sobre relacionamentos passados. _CHECK!_
+
+Conversamos sobre nossa fome por experiências novas. _CHECK!_
+
 Com os ouvidos atentos, meus olhos brilhavam enquanto eu ouvia cada palavra que saía da sua boca.
 
-Que noite deliciosa! Ótima comida, ambiente escuro e uma companhia incrível. Ali era o melhor lugar do mundo!
+Que noite deliciosa! Ótima comida, ambiente escuro e uma companhia incrível. Ali era o melhor lugar do mundo! 2
 
 Até que, quando olhamos ao redor, percebemos que restávamos apenas nós dois no restaurante. Hora de ir!
 
@@ -279,7 +307,7 @@ Até que finalmente tocamos no assunto das nossas experiências amorosas. Você 
 
 Você começou dizendo que estava segura em relação a nós, pois seu relacionamento já havia acabado havia alguns anos. Na verdade, seu casamento já havia começado em uma fase terminal...
 
-Exatamente como no meu último relacionamento, você estava havia três anos vivendo uma fase infeliz.
+Exatamente como no meu último relacionamento, você estava ha três anos vivendo uma fase infeliz.
 
 Você não contava exatamente como era o casamento, mas explicava como se sentia em cada situação. Em seguida, eu a interrompia para compartilhar experiências do meu relacionamento que eram exatamente iguais às suas.
 
@@ -299,13 +327,15 @@ Com o tempo, a saudade viria, e isso é normal. Todos sentimos insegurança dian
 
 O que basta na sua vida? O que é suficiente para você?
 
-Eu já não estava disposto a rifar o meu tempo de vida dentro do meu relacionamento. Não suportava mais ver a vida passar diante dos meus olhos. Foram inúmeras tentativas que surtiam efeito apenas por alguns meses... E o mesmo acontecia com ela. Um dos dois precisava ter maturidade para tomar aquela decisão, ou ambos estariam sentenciando a vida um do outro.
+Eu já não estava disposto a rifar o meu tempo de vida dentro do meu relacionamento. Não suportava mais ver a vida passar diante dos meus olhos. Foram inúmeras tentativas que surtiam efeito apenas por algumas semanas ou meses... E o mesmo acontecia com minha ex namorada. Um dos dois precisava ter maturidade para tomar aquela decisão, ou ambos estariam sentenciando a vida um do outro.
 
 Concordamos com aquelas ideias e, como havia acontecido da última vez, saímos com muitas reflexões. Mais uma vez, fomos os últimos a sair do restaurante. E, mais uma vez, eu me apaixonei por você!
 
 Não demorou para que não resistíssemos e voltássemos a ficar. Estava claro para mim: **O SEU LUGAR ERA AO MEU LADO!**
 
+
 **Simulações**
+
 
 Chegou o dia do simulado do PD. Dessa vez, eu faria o exame e, portanto, estava presente para participar. Quando cheguei, você já havia feito o seu e estava apenas curtindo com o pessoal, aguardando uma oportunidade para que pudéssemos ficar a sós.
 
@@ -320,6 +350,8 @@ Posicionei o colchão, deitamo-nos e ficamos olhando para o céu enquanto conver
 Ajoelhei-me e trouxe você para perto de mim, enquanto envolvia minha cintura com suas pernas. Abracei você e, com uma das mãos, dei apoio à sua nuca, trazendo sua boca para a minha. Beijei seu pescoço e seus ombros e fui afrouxando o abraço enquanto você inclinava o tronco para trás, oferecendo seus seios nus à minha boca!
 
 E assim aproveitamos mais uma noite juntos, dessa vez sob a luz da lua.
+
+**Uma Noite Confortável**
 
 Continuamos nos vendo, mas ambos estávamos descontentes com a forma como as coisas estavam acontecendo. Um dia, convidei você para jantarmos em Mauá. Você levou o jogo para retomarmos de onde havíamos parado. Novamente, tentei adivinhar qual seria a sua bebida e acertei.
 
@@ -341,7 +373,7 @@ Ali descansamos de conchinha. Puxei você para perto e a mantive bem junto de mi
 
 Não demorou muito para que nosso desejo voltasse. Você permanecia deitada de costas para mim.
 
-Afastei seus cabelos, beijei seu pescoço e massageei suas costas enquanto me deitava sobre você. Aproximei-me do seu pescoço para que sentisse minha respiração quente perto da sua orelha.
+Afastei seus cabelos, beijei seu pescoço e massageei suas costas enquanto me deitava sobre você. Me aproximei do seu pescoço para que sentisse minha respiração quente perto da sua orelha.
 
 Logo eu estava dentro de você novamente, sentindo seu corpo quente deslizar pelo meu, com calma, devagar, enquanto sussurrava ao seu ouvido o quanto você era gostosa...
 
@@ -353,6 +385,10 @@ Fim da noite? Não! Eu ainda precisava lhe dar aquele banho gostoso!
 
 Agora sim, fim da noite. E eu me apaixonei por você.
 
+
+**More Than Words**
+
+
 Ocorreram outros encontros, mas um deles foi especial. Um dia, após nossa aula do PD, queríamos passar um tempo juntos, e você sugeriu que fôssemos a um bar, pizzaria e karaokê.
 
 Chegando lá, escolhemos um lugar mais reservado e iniciamos mais uma de nossas conversas tão prazerosas. Até que você decidiu jogar sujo e me pediu para escolher uma música para você cantar.
@@ -361,7 +397,7 @@ Fiz-lhe um desafio: cantar _More Than Words_ olhando para mim!
 
 Mal sabia eu que, naquele jogo, você estava jogando em casa!
 
-Você não apenas me impressionou, mas também a todos que estavam lá, pessoas que já cantavam muito bem! Sua voz alcança um timbre ainda mais doce do que o natural: serena, suave... Não consegui tirar os olhos de você e cantei para você de onde estava.
+Você não apenas me impressionou, mas também a todos que estavam lá, pessoas que já cantavam muito bem! Sua voz alcançou um timbre ainda mais doce do que o natural: serena, suave... Não consegui tirar os olhos de você e cantei para você de onde estava.
 
 Quando você voltou à mesa, registrei o quanto estava encantado. Passamos o restante da noite abraçados, trocando carinhos. Eu bebia mais uma dose de você e me apaixonava mais uma vez!
 
@@ -382,6 +418,10 @@ Eu não me apaixonei por você naquele dia, como havia acontecido nas noites ant
 E isso fazia com que eu não conseguisse desviar o olhar de você. Era a última coisa que eu desejava, mas ali nós terminamos pela segunda vez...
 
 Mantivemos contato, pois você sempre deixou claro que a sua situação se resolveria mais cedo ou mais tarde. Eu também tinha a minha própria situação para resolver.
+
+
+**Você Me Encanta Mais Uma Vez**
+
 
 Na primeira semana, você me contou sobre um sarau da sua escola de música. Chegou a cogitar me convidar, mas, diante da situação, entendeu que seria impróprio. Alguns dias depois, resolvi sondar se sua mãe e seu irmão iriam. Depois que você confirmou que eles não iriam, decidi fazer uma surpresa e assistir à sua apresentação sem avisar. Entrei em contato com a escola para verificar a disponibilidade de ingressos.
 
@@ -405,7 +445,11 @@ Mas me comportei.
 
 Fiquei triste por não haver outras apresentações suas, mas aproveitei o evento. Quando nos encontramos, entreguei-lhe as flores. Percebi sua preocupação com a possibilidade de alguém nos ver, então logo fomos embora.
 
-Porém, durante o restante da noite, senti você bem distante! Você me disse que estava em êxtase por causa da apresentação. Naquela noite, pela primeira vez, você me disse que seus projetos pessoais eram com seu marido.
+Porém, durante o restante da noite, senti você bem distante! Você me disse que estava em êxtase por causa da apresentação. Naquela noite, pela primeira vez, você me disse que seus projetos pessoais eram com seu ex marido.
+
+
+**Reaproximação Inevitável**
+
 
 Nos encontramos novamente durante a semana e logo percebemos o quanto seria difícil nos afastarmos. Estávamos conectados, e eu precisava beber a minha dose de você!
 
@@ -423,6 +467,8 @@ E foi exatamente assim que a recebi naquela noite!
 
 Colocamos o colchão sobre a mesa, peguei um cobertor e posicionei as almofadas. E lá se foi mais uma noite insuficiente para todos os nossos assuntos. Ficamos conversando quase até o sol nascer...
 
+**Atitudes Necessárias**
+
 Quando chegou o primeiro final de semana, encerrei meu relacionamento. Foi uma conversa muito difícil e triste, pois, no fim das contas, uma das partes havia se permitido sentir mais. Isso trouxe à tona um sentimento que estava adormecido e, logo, aquela conversa acabou se revelando uma tragédia para um dos lados.
 
 Obviamente, eu também não fiquei feliz, mas meu coração estava em outro lugar. E, mesmo que eu não pudesse estar com quem queria, não poderia continuar naquela situação. Eu precisava ser justo.
@@ -433,7 +479,11 @@ A conversa me desgastou bastante, mas fui me recuperando. Agora, ansiava para qu
 
 Sentia que era apenas uma questão de tempo, pois, assim como eu, você sempre demonstrou ser uma mulher de valor, caráter e determinação.
 
-E assim foi. Duas semanas depois, você me comunicou o fim do seu casamento.
+E assim foi. Duas semanas depois, você me comunicaria o fim do seu casamento.
+
+
+**Um Dia Só Para Nós**
+
 
 Alguns dias antes disso, havíamos mantido contato, e nossos encontros estavam cada vez mais intensos. Nada era mais difícil do que controlar minha vontade de tomar você nos braços, apertá-la contra meu corpo e beijar sua boca...
 
@@ -460,6 +510,10 @@ E nenhuma surpresa: ela é uma cópia sua!
 Parece ser uma criança doce, inteligente, com uma mente precoce e muito cuidadosa com a maneira como se expressa. Fiquei curioso para saber mais, mas, novamente, a noite já se mostrava curta demais para nós.
 
 Decidimos sair para dançar.
+
+
+**A Tormenta se Avizinha** 
+
 
 Fomos ao Remelexo e encontramos alguns amigos. Naquela noite, nosso relacionamento sofreria as primeiras interferências externas e, para minha infelicidade, ainda não saberíamos como lidar com elas.
 
@@ -488,6 +542,11 @@ Ao final, você me perguntou como eu estava:
 — Não vejo a hora!
 
 _CHECK!_
+
+
+**Desejo Acumulado** 
+
+
 
 Nesses primeiros dias, trocamos muitas provocações por mensagens. Você me mandou um vídeo bastante convidativo, deitada na cama, sob uma luz avermelhada.
 
@@ -1402,4 +1461,12 @@ Ainda não consigo descrever o que sinto em palavras.
 
 Mas sinto que estou dando meus primeiros passos. Não sei se estão na direção certa, mas sei que o importante é continuar.
 
-Ainda não consigo enxergar a luz, mas sei que logo a verei.
+Ainda não consigo enxergar a luz, mas sei que logo a verei...
+
+Não sei o que definimos para nós, mas espero que tenhamos acertado em nossas decisões. 
+
+Você sempre estará em um lugar especial em meu coração, em que eu preservarei pelo resto da minha vida, como todos os momentos maravilhosos que passamos juntos, momentos que me geraram saudade, mesmo antes de terminarem.
+
+Com todo meu carinho!
+
+Ass: Caio Montenegro.

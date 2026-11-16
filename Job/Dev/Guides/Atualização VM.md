@@ -168,59 +168,9 @@ glpat-ypH_1Aquv1L8slyPnZE7Om86MQp1OmI2CA.01.0y053moyc
 arn:aws:codewhisperer:us-east-1:975050243423:profile/HAM3NHXWC7WU
 
 instalar kiro
-INstalar opencode
+Instalar opencode
 logar no kiro: kiro-cli login
 
 pegar o arn do kiro: kiro-cli profile
 
 Seguir a [doc](https://loop.cloud.microsoft/p/eyJ1IjoiaHR0cHM6Ly9nZXJlbmNpYW5ldC5zaGFyZXBvaW50LmNvbS9jb250ZW50c3RvcmFnZS9DU1BfMTY1YmFlYTUtYzExMy00N2MyLTg3YzMtMTg1Y2FlYWY3ZTAzP25hdj1jejBsTWtaamIyNTBaVzUwYzNSdmNtRm5aU1V5UmtOVFVGOHhOalZpWVdWaE5TMWpNVEV6TFRRM1l6SXRPRGRqTXkweE9EVmpZV1ZoWmpkbE1ETW1aRDFpSlRJeGNHRTFZa1pvVUVKM2EyVklkM2hvWTNKeE9TMUJORXN3U0RoMk4xSnRlRVp3YVd0VU1sSklRMmR0YWtwSWMzTnZaVTAyVWxKeGRXVjZkSGQ1UkdGblRTWm1QVEF4VDFOUlFVa3pVa1l6VjFGSVNrVmFVRFZTUVV4SVMxVlBTVWxLV1VWQlYwOG1ZejBsTWtZbVlUMU1iMjl3UVhCd0puQTlKVFF3Wm14MWFXUjRKVEpHYkc5dmNDMXdZV2RsTFdOdmJuUmhhVzVsY2c9PSJ9) do Lucas
-
-
-
-Disponibilizar a FAQ APP
-Passar as categorias cadastradas para a nova collection
-
-Pós deploy
-Criar script de migração do categoria para related em prod
-Criar regras de usuário produto e mkt em prod
-Ajustar as regras de acesso da rota
-
-Pré Deploy
-
-Criar tarefa para equipe web consumir o saldo bonificado no FAQ APP
-
-
-Evidências:
-
-
-Categoria:
-
-assinaturas
-boletos
-cartao-credito
-cartao-credito-pf
-cartao-credito-pj
-cartao-pre-pago
-desenrola
-ecommerce
-efi-bank
-efi-empresas
-efi-para-voce
-efi-pay
-efi-pro
-link-de-pagamento
-open-finance
-parceiro
-pix-automatico
-pix-por-biometria
-renegocie
-seguranca
-software-house
-conta-bonificada
-antecipacao-recebiveis
-capital-de-giro
-serasa-score
-bolix-automatico
-lembrete-cobranca
-serasa-negativacao
-credito-rapido-pj
